@@ -1,0 +1,319 @@
+{
+  "years": [
+    2003,
+    2007,
+    2009,
+    2013,
+    2016,
+    2017,
+    2021,
+    2024
+  ],
+  "results": [
+    {
+      "year": 2003,
+      "party": "Sjálfstæðisflokkur",
+      "percent": 34
+    },
+    {
+      "year": 2003,
+      "party": "Samfylkingin",
+      "percent": 31
+    },
+    {
+      "year": 2003,
+      "party": "Framsóknarflokkur",
+      "percent": 18
+    },
+    {
+      "year": 2003,
+      "party": "Vinstrihreyfingin - grænt framboð",
+      "percent": 9
+    },
+    {
+      "year": 2003,
+      "party": "Frjálslyndi flokkurinn",
+      "percent": 7
+    },
+    {
+      "year": 2003,
+      "party": "Aðrir og utan flokka",
+      "percent": 1
+    },
+    {
+      "year": 2007,
+      "party": "Sjálfstæðisflokkur",
+      "percent": 37
+    },
+    {
+      "year": 2007,
+      "party": "Samfylkingin",
+      "percent": 27
+    },
+    {
+      "year": 2007,
+      "party": "Vinstrihreyfingin - grænt framboð",
+      "percent": 14
+    },
+    {
+      "year": 2007,
+      "party": "Framsóknarflokkur",
+      "percent": 12
+    },
+    {
+      "year": 2007,
+      "party": "Frjálslyndi flokkurinn",
+      "percent": 7
+    },
+    {
+      "year": 2007,
+      "party": "Aðrir og utan flokka",
+      "percent": 3
+    },
+    {
+      "year": 2009,
+      "party": "Samfylkingin",
+      "percent": 30
+    },
+    {
+      "year": 2009,
+      "party": "Sjálfstæðisflokkur",
+      "percent": 24
+    },
+    {
+      "year": 2009,
+      "party": "Vinstrihreyfingin - grænt framboð",
+      "percent": 22
+    },
+    {
+      "year": 2009,
+      "party": "Framsóknarflokkur",
+      "percent": 15
+    },
+    {
+      "year": 2009,
+      "party": "Borgarahreyfingin",
+      "percent": 7
+    },
+    {
+      "year": 2009,
+      "party": "Frjálslyndi flokkurinn",
+      "percent": 2
+    },
+    {
+      "year": 2009,
+      "party": "Aðrir og utan flokka",
+      "percent": 1
+    },
+    {
+      "year": 2013,
+      "party": "Sjálfstæðisflokkur",
+      "percent": 27
+    },
+    {
+      "year": 2013,
+      "party": "Framsóknarflokkur",
+      "percent": 24
+    },
+    {
+      "year": 2013,
+      "party": "Samfylkingin",
+      "percent": 13
+    },
+    {
+      "year": 2013,
+      "party": "Aðrir og utan flokka",
+      "percent": 12
+    },
+    {
+      "year": 2013,
+      "party": "Vinstrihreyfingin - grænt framboð",
+      "percent": 11
+    },
+    {
+      "year": 2013,
+      "party": "Björt framtíð",
+      "percent": 8
+    },
+    {
+      "year": 2013,
+      "party": "Píratar",
+      "percent": 5
+    },
+    {
+      "year": 2016,
+      "party": "Sjálfstæðisflokkur",
+      "percent": 29
+    },
+    {
+      "year": 2016,
+      "party": "Vinstrihreyfingin - grænt framboð",
+      "percent": 16
+    },
+    {
+      "year": 2016,
+      "party": "Píratar",
+      "percent": 15
+    },
+    {
+      "year": 2016,
+      "party": "Framsóknarflokkur",
+      "percent": 12
+    },
+    {
+      "year": 2016,
+      "party": "Viðreisn",
+      "percent": 11
+    },
+    {
+      "year": 2016,
+      "party": "Björt framtíð",
+      "percent": 7
+    },
+    {
+      "year": 2016,
+      "party": "Samfylkingin",
+      "percent": 6
+    },
+    {
+      "year": 2016,
+      "party": "Aðrir og utan flokka",
+      "percent": 6
+    },
+    {
+      "year": 2017,
+      "party": "Sjálfstæðisflokkur",
+      "percent": 25.2
+    },
+    {
+      "year": 2017,
+      "party": "Vinstrihreyfingin - grænt framboð",
+      "percent": 16.9
+    },
+    {
+      "year": 2017,
+      "party": "Samfylkingin",
+      "percent": 12.1
+    },
+    {
+      "year": 2017,
+      "party": "Miðflokkurinn",
+      "percent": 10.9
+    },
+    {
+      "year": 2017,
+      "party": "Framsóknarflokkur",
+      "percent": 10.7
+    },
+    {
+      "year": 2017,
+      "party": "Píratar",
+      "percent": 9.2
+    },
+    {
+      "year": 2017,
+      "party": "Flokkur fólksins",
+      "percent": 6.9
+    },
+    {
+      "year": 2017,
+      "party": "Viðreisn",
+      "percent": 6.7
+    },
+    {
+      "year": 2017,
+      "party": "Björt framtíð",
+      "percent": 1.2
+    },
+    {
+      "year": 2021,
+      "party": "Sjálfstæðisflokkur",
+      "percent": 24.4
+    },
+    {
+      "year": 2021,
+      "party": "Framsóknarflokkur",
+      "percent": 17.3
+    },
+    {
+      "year": 2021,
+      "party": "Vinstrihreyfingin - grænt framboð",
+      "percent": 12.6
+    },
+    {
+      "year": 2021,
+      "party": "Samfylkingin",
+      "percent": 9.9
+    },
+    {
+      "year": 2021,
+      "party": "Flokkur fólksins",
+      "percent": 8.8
+    },
+    {
+      "year": 2021,
+      "party": "Píratar",
+      "percent": 8.6
+    },
+    {
+      "year": 2021,
+      "party": "Viðreisn",
+      "percent": 8.3
+    },
+    {
+      "year": 2021,
+      "party": "Miðflokkurinn",
+      "percent": 5.4
+    },
+    {
+      "year": 2021,
+      "party": "Sósíalistaflokkur Íslands",
+      "percent": 4.1
+    },
+    {
+      "year": 2024,
+      "party": "Samfylkingin",
+      "percent": 20.8
+    },
+    {
+      "year": 2024,
+      "party": "Sjálfstæðisflokkur",
+      "percent": 19.4
+    },
+    {
+      "year": 2024,
+      "party": "Viðreisn",
+      "percent": 15.8
+    },
+    {
+      "year": 2024,
+      "party": "Flokkur fólksins",
+      "percent": 13.8
+    },
+    {
+      "year": 2024,
+      "party": "Miðflokkurinn",
+      "percent": 12.1
+    },
+    {
+      "year": 2024,
+      "party": "Framsóknarflokkur",
+      "percent": 7.8
+    },
+    {
+      "year": 2024,
+      "party": "Sósíalistaflokkur Íslands",
+      "percent": 4
+    },
+    {
+      "year": 2024,
+      "party": "Píratar",
+      "percent": 3
+    },
+    {
+      "year": 2024,
+      "party": "Vinstrihreyfingin - grænt framboð",
+      "percent": 2.3
+    }
+  ]
+}
