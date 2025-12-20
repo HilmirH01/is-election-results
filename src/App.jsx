@@ -41,6 +41,16 @@ const PARTY_COLORS = {
   "Björt framtíð": "#951281",
   "Borgarahreyfingin": "#f3781f",
   "Frjálslyndi flokkurinn": "#0057a4",
+  "Nýtt afl": "#7b6d64",
+  "Íslandshreyfingin": "#70b400",
+  "Lýðræðisflokkur": "#004180",
+  "Lýðræðishreyfingin": "#8b3036",
+  "Regnboginn": "#8120bb",
+  "Landsbyggðarflokkurinn": "#91a6d1",
+  "Dögun": "#e3a538",
+  "Flokkur heimilanna": "#35bbed",
+  "Hægri grænir": "#2d7400",
+  "Lýðræðisvaktin": "#3b5a9a",
 };
 
 const PARTY_LOGOS = {
@@ -56,6 +66,16 @@ const PARTY_LOGOS = {
   "Björt framtíð": "/logos/bjort_framtid.png",
   "Borgarahreyfingin": "/logos/borgarahreyfingin.png",
   "Frjálslyndi flokkurinn": "/logos/frjalslyndi.jpg",
+  "Nýtt afl": "/logos/nytt_afl.jpeg",
+  "Íslandshreyfingin": "/logos/islandshreyfingin.png",
+  "Lýðræðisflokkur": "/logos/lydraedisflokkur.png",
+  "Lýðræðishreyfingin": "/logos/lydraedishreyfingin.png",
+  "Regnboginn": "/logos/regnboginn.jpg",
+  "Landsbyggðarflokkurinn": "/logos/landsbyggdarflokkurinn.jpg",
+  "Dögun": "/logos/dogun.png",
+  "Flokkur heimilanna": "/logos/flokkur_heimilanna.png",
+  "Hægri grænir": "logos/haegri_graenir.png",
+  "Lýðræðisvaktin": "/logos/lydraedisvaktin.png",
 };
 
 function partyColor(name) {
@@ -159,28 +179,86 @@ function PieChart({ rows }) {
    App
 ======================= */
 export default function App() {
-  const [data, setData] = useState(null);
+  const [national, setNational] = useState(null);
+  const [constData, setConstData] = useState(null);
   const [year, setYear] = useState(null);
   const [view, setView] = useState("bars"); // bars | pie
+  const [constituency, setConstituency] = useState("Landsheild");
+
 
   useEffect(() => {
+    let cancelled = false;
+
     (async () => {
-      const res = await fetch("/results.json", { cache: "no-store" });
-      if (!res.ok) throw new Error("Gat ekki sótt results.json");
-      const json = await res.json();
-      setData(json);
-      setYear((y) => y ?? Number(json.years[json.years.length - 1]));
-    })().catch((err) =>
-      setData({ years: [], results: [], error: String(err) })
-    );
+      const [resNat, resCon] = await Promise.all([
+        fetch("/results.json", { cache: "no-store" }),
+        fetch("/results-kjordaemi.json", { cache: "no-store" }),
+      ]);
+
+      if (!resNat.ok) throw new Error("Gat ekki sótt results.json");
+      const nat = await resNat.json();
+      if (cancelled) return;
+
+      setNational(nat);
+
+      // tryggja að year sé alltaf til í nat.years
+      setYear((prev) => {
+        const years = nat?.years ?? [];
+        if (!years.length) return null;
+        const prevNum = Number(prev);
+        return years.includes(prevNum) ? prevNum : Number(years[years.length - 1]);
+      });
+
+      if (resCon.ok) {
+        const con = await resCon.json();
+        if (cancelled) return;
+        setConstData(con);
+      } else {
+        setConstData(null);
+      }
+
+      // default kjördæmi ef tómt
+      setConstituency((c) => c || "Landsheild");
+    })().catch((err) => {
+      console.error(err);
+      setNational({ years: [], results: [], error: String(err) });
+      setConstData(null);
+    });
+
+    return () => {
+      cancelled = true;
+    };
   }, []);
 
+
+  
+  const constituencies = useMemo(() => {
+    const list = constData?.constituencies ?? [];
+    return ["Landsheild", ...list];
+  }, [constData]);
+
   const rows = useMemo(() => {
-    if (!data || !year) return [];
-    return data.results
+    if (!year) return [];
+
+    if (constituency === "Landsheild") {
+      const data = national;
+      if (!data) return [];
+      return (data.results ?? [])
+        .filter((r) => Number(r.year) === Number(year))
+        .slice()
+        .sort((a, b) => b.percent - a.percent);
+    }
+
+    const data = constData;
+    if (!data) return [];
+
+    return (data.results ?? [])
       .filter((r) => Number(r.year) === Number(year))
+      .filter((r) => r.constituency === constituency)
+      .slice()
       .sort((a, b) => b.percent - a.percent);
-  }, [data, year]);
+  }, [national, constData, year, constituency]);
+
 
   const max = useMemo(
     () => (rows.length ? Math.max(...rows.map((r) => r.percent)) : 0),
@@ -202,12 +280,33 @@ export default function App() {
             Ár
             <select
               className="select"
-              value={String(year ?? "")}
+              value={year == null ? "" : String(year)}
               onChange={(e) => setYear(Number(e.target.value))}
+              disabled={!national?.years?.length}
             >
-              {data?.years.map((y) => (
-                <option key={y} value={y}>
+              {!national?.years?.length ? (
+                <option value="">Hleður…</option>
+              ) : null}
+
+              {(national?.years ?? []).map((y) => (
+                <option key={y} value={String(y)}>
                   {y}
+                </option>
+              ))}
+            </select>
+          </label>
+
+
+          <label className="label">
+            Kjördæmi
+            <select
+              className="select"
+              value={constituency}
+              onChange={(e) => setConstituency(e.target.value)}
+            >
+              {constituencies.map((k) => (
+                <option key={k} value={k}>
+                  {k}
                 </option>
               ))}
             </select>

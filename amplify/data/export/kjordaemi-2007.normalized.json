@@ -1,0 +1,220 @@
+{
+  "results": [
+    {
+      "year": 2007,
+      "constituency": "Norðvesturkjördæmi",
+      "party": "Framsóknarflokkur",
+      "percent": 18.8
+    },
+    {
+      "year": 2007,
+      "constituency": "Norðvesturkjördæmi",
+      "party": "Sjálfstæðisflokkur",
+      "percent": 29.1
+    },
+    {
+      "year": 2007,
+      "constituency": "Norðvesturkjördæmi",
+      "party": "Frjálslyndi flokkurinn",
+      "percent": 13.6
+    },
+    {
+      "year": 2007,
+      "constituency": "Norðvesturkjördæmi",
+      "party": "Samfylkingin",
+      "percent": 21.2
+    },
+    {
+      "year": 2007,
+      "constituency": "Norðvesturkjördæmi",
+      "party": "Vinstrihreyfingin - grænt framboð",
+      "percent": 16
+    },
+    {
+      "year": 2007,
+      "constituency": "Norðvesturkjördæmi",
+      "party": "Íslandshreyfingin",
+      "percent": 1.4
+    },
+    {
+      "year": 2007,
+      "constituency": "Norðausturkjördæmi",
+      "party": "Framsóknarflokkur",
+      "percent": 24.6
+    },
+    {
+      "year": 2007,
+      "constituency": "Norðausturkjördæmi",
+      "party": "Sjálfstæðisflokkur",
+      "percent": 28
+    },
+    {
+      "year": 2007,
+      "constituency": "Norðausturkjördæmi",
+      "party": "Frjálslyndi flokkurinn",
+      "percent": 5.9
+    },
+    {
+      "year": 2007,
+      "constituency": "Norðausturkjördæmi",
+      "party": "Samfylkingin",
+      "percent": 20.8
+    },
+    {
+      "year": 2007,
+      "constituency": "Norðausturkjördæmi",
+      "party": "Vinstrihreyfingin - grænt framboð",
+      "percent": 19.6
+    },
+    {
+      "year": 2007,
+      "constituency": "Norðausturkjördæmi",
+      "party": "Íslandshreyfingin",
+      "percent": 1.2
+    },
+    {
+      "year": 2007,
+      "constituency": "Suðurkjördæmi",
+      "party": "Framsóknarflokkur",
+      "percent": 18.7
+    },
+    {
+      "year": 2007,
+      "constituency": "Suðurkjördæmi",
+      "party": "Sjálfstæðisflokkur",
+      "percent": 36
+    },
+    {
+      "year": 2007,
+      "constituency": "Suðurkjördæmi",
+      "party": "Frjálslyndi flokkurinn",
+      "percent": 7
+    },
+    {
+      "year": 2007,
+      "constituency": "Suðurkjördæmi",
+      "party": "Samfylkingin",
+      "percent": 26.8
+    },
+    {
+      "year": 2007,
+      "constituency": "Suðurkjördæmi",
+      "party": "Vinstrihreyfingin - grænt framboð",
+      "percent": 9.9
+    },
+    {
+      "year": 2007,
+      "constituency": "Suðurkjördæmi",
+      "party": "Íslandshreyfingin",
+      "percent": 1.7
+    },
+    {
+      "year": 2007,
+      "constituency": "Suðvesturkjördæmi",
+      "party": "Framsóknarflokkur",
+      "percent": 7.2
+    },
+    {
+      "year": 2007,
+      "constituency": "Suðvesturkjördæmi",
+      "party": "Sjálfstæðisflokkur",
+      "percent": 42.6
+    },
+    {
+      "year": 2007,
+      "constituency": "Suðvesturkjördæmi",
+      "party": "Frjálslyndi flokkurinn",
+      "percent": 6.7
+    },
+    {
+      "year": 2007,
+      "constituency": "Suðvesturkjördæmi",
+      "party": "Samfylkingin",
+      "percent": 28.4
+    },
+    {
+      "year": 2007,
+      "constituency": "Suðvesturkjördæmi",
+      "party": "Vinstrihreyfingin - grænt framboð",
+      "percent": 11.6
+    },
+    {
+      "year": 2007,
+      "constituency": "Suðvesturkjördæmi",
+      "party": "Íslandshreyfingin",
+      "percent": 3.5
+    },
+    {
+      "year": 2007,
+      "constituency": "Reykjavíkurkjördæmi suður",
+      "party": "Framsóknarflokkur",
+      "percent": 5.9
+    },
+    {
+      "year": 2007,
+      "constituency": "Reykjavíkurkjördæmi suður",
+      "party": "Sjálfstæðisflokkur",
+      "percent": 39.2
+    },
+    {
+      "year": 2007,
+      "constituency": "Reykjavíkurkjördæmi suður",
+      "party": "Frjálslyndi flokkurinn",
+      "percent": 6.8
+    },
+    {
+      "year": 2007,
+      "constituency": "Reykjavíkurkjördæmi suður",
+      "party": "Samfylkingin",
+      "percent": 29
+    },
+    {
+      "year": 2007,
+      "constituency": "Reykjavíkurkjördæmi suður",
+      "party": "Vinstrihreyfingin - grænt framboð",
+      "percent": 14.4
+    },
+    {
+      "year": 2007,
+      "constituency": "Reykjavíkurkjördæmi suður",
+      "party": "Íslandshreyfingin",
+      "percent": 4.8
+    },
+    {
+      "year": 2007,
+      "constituency": "Reykjavíkurkjördæmi norður",
+      "party": "Framsóknarflokkur",
+      "percent": 6.2
+    },
+    {
+      "year": 2007,
+      "constituency": "Reykjavíkurkjördæmi norður",
+      "party": "Sjálfstæðisflokkur",
+      "percent": 36.4
+    },
+    {
+      "year": 2007,
+      "constituency": "Reykjavíkurkjördæmi norður",
+      "party": "Frjálslyndi flokkurinn",
+      "percent": 6.3
+    },
+    {
+      "year": 2007,
+      "constituency": "Reykjavíkurkjördæmi norður",
+      "party": "Samfylkingin",
+      "percent": 29.2
+    },
+    {
+      "year": 2007,
+      "constituency": "Reykjavíkurkjördæmi norður",
+      "party": "Vinstrihreyfingin - grænt framboð",
+      "percent": 16.9
+    },
+    {
+      "year": 2007,
+      "constituency": "Reykjavíkurkjördæmi norður",
+      "party": "Íslandshreyfingin",
+      "percent": 4.9
+    }
+  ]
+}

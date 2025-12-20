@@ -1,0 +1,256 @@
+{
+  "results": [
+    {
+      "year": 2009,
+      "constituency": "Norðvesturkjördæmi",
+      "party": "Framsóknarflokkur",
+      "percent": 22.5
+    },
+    {
+      "year": 2009,
+      "constituency": "Norðvesturkjördæmi",
+      "party": "Sjálfstæðisflokkur",
+      "percent": 22.9
+    },
+    {
+      "year": 2009,
+      "constituency": "Norðvesturkjördæmi",
+      "party": "Frjálslyndi flokkurinn",
+      "percent": 5.3
+    },
+    {
+      "year": 2009,
+      "constituency": "Norðvesturkjördæmi",
+      "party": "Samfylkingin",
+      "percent": 22.7
+    },
+    {
+      "year": 2009,
+      "constituency": "Norðvesturkjördæmi",
+      "party": "Vinstrihreyfingin - grænt framboð",
+      "percent": 22.8
+    },
+    {
+      "year": 2009,
+      "constituency": "Norðvesturkjördæmi",
+      "party": "Borgarahreyfingin",
+      "percent": 3.3
+    },
+    {
+      "year": 2009,
+      "constituency": "Norðvesturkjördæmi",
+      "party": "Lýðræðishreyfingin",
+      "percent": 0.4
+    },
+    {
+      "year": 2009,
+      "constituency": "Norðausturkjördæmi",
+      "party": "Framsóknarflokkur",
+      "percent": 25.3
+    },
+    {
+      "year": 2009,
+      "constituency": "Norðausturkjördæmi",
+      "party": "Sjálfstæðisflokkur",
+      "percent": 17.5
+    },
+    {
+      "year": 2009,
+      "constituency": "Norðausturkjördæmi",
+      "party": "Frjálslyndi flokkurinn",
+      "percent": 1.6
+    },
+    {
+      "year": 2009,
+      "constituency": "Norðausturkjördæmi",
+      "party": "Samfylkingin",
+      "percent": 22.7
+    },
+    {
+      "year": 2009,
+      "constituency": "Norðausturkjördæmi",
+      "party": "Vinstrihreyfingin - grænt framboð",
+      "percent": 29.7
+    },
+    {
+      "year": 2009,
+      "constituency": "Norðausturkjördæmi",
+      "party": "Borgarahreyfingin",
+      "percent": 3
+    },
+    {
+      "year": 2009,
+      "constituency": "Norðausturkjördæmi",
+      "party": "Lýðræðishreyfingin",
+      "percent": 0.3
+    },
+    {
+      "year": 2009,
+      "constituency": "Suðurkjördæmi",
+      "party": "Framsóknarflokkur",
+      "percent": 20
+    },
+    {
+      "year": 2009,
+      "constituency": "Suðurkjördæmi",
+      "party": "Sjálfstæðisflokkur",
+      "percent": 26.2
+    },
+    {
+      "year": 2009,
+      "constituency": "Suðurkjördæmi",
+      "party": "Frjálslyndi flokkurinn",
+      "percent": 3.1
+    },
+    {
+      "year": 2009,
+      "constituency": "Suðurkjördæmi",
+      "party": "Samfylkingin",
+      "percent": 28
+    },
+    {
+      "year": 2009,
+      "constituency": "Suðurkjördæmi",
+      "party": "Vinstrihreyfingin - grænt framboð",
+      "percent": 17.1
+    },
+    {
+      "year": 2009,
+      "constituency": "Suðurkjördæmi",
+      "party": "Borgarahreyfingin",
+      "percent": 5.1
+    },
+    {
+      "year": 2009,
+      "constituency": "Suðurkjördæmi",
+      "party": "Lýðræðishreyfingin",
+      "percent": 0.5
+    },
+    {
+      "year": 2009,
+      "constituency": "Suðvesturkjördæmi",
+      "party": "Framsóknarflokkur",
+      "percent": 11.6
+    },
+    {
+      "year": 2009,
+      "constituency": "Suðvesturkjördæmi",
+      "party": "Sjálfstæðisflokkur",
+      "percent": 27.6
+    },
+    {
+      "year": 2009,
+      "constituency": "Suðvesturkjördæmi",
+      "party": "Frjálslyndi flokkurinn",
+      "percent": 1.5
+    },
+    {
+      "year": 2009,
+      "constituency": "Suðvesturkjördæmi",
+      "party": "Samfylkingin",
+      "percent": 32.2
+    },
+    {
+      "year": 2009,
+      "constituency": "Suðvesturkjördæmi",
+      "party": "Vinstrihreyfingin - grænt framboð",
+      "percent": 17.4
+    },
+    {
+      "year": 2009,
+      "constituency": "Suðvesturkjördæmi",
+      "party": "Borgarahreyfingin",
+      "percent": 9.1
+    },
+    {
+      "year": 2009,
+      "constituency": "Suðvesturkjördæmi",
+      "party": "Lýðræðishreyfingin",
+      "percent": 0.6
+    },
+    {
+      "year": 2009,
+      "constituency": "Reykjavíkurkjördæmi suður",
+      "party": "Framsóknarflokkur",
+      "percent": 9.7
+    },
+    {
+      "year": 2009,
+      "constituency": "Reykjavíkurkjördæmi suður",
+      "party": "Sjálfstæðisflokkur",
+      "percent": 23.2
+    },
+    {
+      "year": 2009,
+      "constituency": "Reykjavíkurkjördæmi suður",
+      "party": "Frjálslyndi flokkurinn",
+      "percent": 2
+    },
+    {
+      "year": 2009,
+      "constituency": "Reykjavíkurkjördæmi suður",
+      "party": "Samfylkingin",
+      "percent": 32.9
+    },
+    {
+      "year": 2009,
+      "constituency": "Reykjavíkurkjördæmi suður",
+      "party": "Vinstrihreyfingin - grænt framboð",
+      "percent": 22.9
+    },
+    {
+      "year": 2009,
+      "constituency": "Reykjavíkurkjördæmi suður",
+      "party": "Borgarahreyfingin",
+      "percent": 8.7
+    },
+    {
+      "year": 2009,
+      "constituency": "Reykjavíkurkjördæmi suður",
+      "party": "Lýðræðishreyfingin",
+      "percent": 0.6
+    },
+    {
+      "year": 2009,
+      "constituency": "Reykjavíkurkjördæmi norður",
+      "party": "Framsóknarflokkur",
+      "percent": 9.6
+    },
+    {
+      "year": 2009,
+      "constituency": "Reykjavíkurkjördæmi norður",
+      "party": "Sjálfstæðisflokkur",
+      "percent": 21.4
+    },
+    {
+      "year": 2009,
+      "constituency": "Reykjavíkurkjördæmi norður",
+      "party": "Frjálslyndi flokkurinn",
+      "percent": 1.6
+    },
+    {
+      "year": 2009,
+      "constituency": "Reykjavíkurkjördæmi norður",
+      "party": "Samfylkingin",
+      "percent": 32.9
+    },
+    {
+      "year": 2009,
+      "constituency": "Reykjavíkurkjördæmi norður",
+      "party": "Vinstrihreyfingin - grænt framboð",
+      "percent": 24
+    },
+    {
+      "year": 2009,
+      "constituency": "Reykjavíkurkjördæmi norður",
+      "party": "Borgarahreyfingin",
+      "percent": 9.6
+    },
+    {
+      "year": 2009,
+      "constituency": "Reykjavíkurkjördæmi norður",
+      "party": "Lýðræðishreyfingin",
+      "percent": 0.9
+    }
+  ]
+}

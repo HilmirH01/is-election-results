@@ -1,0 +1,226 @@
+{
+  "results": [
+    {
+      "year": 2003,
+      "constituency": "Norðvesturkjördæmi",
+      "party": "Framsóknarflokkur",
+      "percent": 21.7
+    },
+    {
+      "year": 2003,
+      "constituency": "Norðvesturkjördæmi",
+      "party": "Sjálfstæðisflokkur",
+      "percent": 29.6
+    },
+    {
+      "year": 2003,
+      "constituency": "Norðvesturkjördæmi",
+      "party": "Frjálslyndi flokkurinn",
+      "percent": 14.2
+    },
+    {
+      "year": 2003,
+      "constituency": "Norðvesturkjördæmi",
+      "party": "Nýtt afl",
+      "percent": 0.7
+    },
+    {
+      "year": 2003,
+      "constituency": "Norðvesturkjördæmi",
+      "party": "Samfylkingin",
+      "percent": 23.2
+    },
+    {
+      "year": 2003,
+      "constituency": "Norðvesturkjördæmi",
+      "party": "Vinstrihreyfingin - grænt framboð",
+      "percent": 10.6
+    },
+    {
+      "year": 2003,
+      "constituency": "Norðausturkjördæmi",
+      "party": "Framsóknarflokkur",
+      "percent": 32.8
+    },
+    {
+      "year": 2003,
+      "constituency": "Norðausturkjördæmi",
+      "party": "Sjálfstæðisflokkur",
+      "percent": 23.5
+    },
+    {
+      "year": 2003,
+      "constituency": "Norðausturkjördæmi",
+      "party": "Frjálslyndi flokkurinn",
+      "percent": 5.6
+    },
+    {
+      "year": 2003,
+      "constituency": "Norðausturkjördæmi",
+      "party": "Nýtt afl",
+      "percent": 0.6
+    },
+    {
+      "year": 2003,
+      "constituency": "Norðausturkjördæmi",
+      "party": "Samfylkingin",
+      "percent": 23.4
+    },
+    {
+      "year": 2003,
+      "constituency": "Norðausturkjördæmi",
+      "party": "Vinstrihreyfingin - grænt framboð",
+      "percent": 14.1
+    },
+    {
+      "year": 2003,
+      "constituency": "Suðurkjördæmi",
+      "party": "Framsóknarflokkur",
+      "percent": 23.7
+    },
+    {
+      "year": 2003,
+      "constituency": "Suðurkjördæmi",
+      "party": "Sjálfstæðisflokkur",
+      "percent": 29.2
+    },
+    {
+      "year": 2003,
+      "constituency": "Suðurkjördæmi",
+      "party": "Frjálslyndi flokkurinn",
+      "percent": 8.7
+    },
+    {
+      "year": 2003,
+      "constituency": "Suðurkjördæmi",
+      "party": "Nýtt afl",
+      "percent": 0.7
+    },
+    {
+      "year": 2003,
+      "constituency": "Suðurkjördæmi",
+      "party": "Samfylkingin",
+      "percent": 29.7
+    },
+    {
+      "year": 2003,
+      "constituency": "Suðurkjördæmi",
+      "party": "Framboð óháðra í suðurkjördæmi",
+      "percent": 3.4
+    },
+    {
+      "year": 2003,
+      "constituency": "Suðurkjördæmi",
+      "party": "Vinstrihreyfingin - grænt framboð",
+      "percent": 4.7
+    },
+    {
+      "year": 2003,
+      "constituency": "Suðvesturkjördæmi",
+      "party": "Framsóknarflokkur",
+      "percent": 14.9
+    },
+    {
+      "year": 2003,
+      "constituency": "Suðvesturkjördæmi",
+      "party": "Sjálfstæðisflokkur",
+      "percent": 38.4
+    },
+    {
+      "year": 2003,
+      "constituency": "Suðvesturkjördæmi",
+      "party": "Frjálslyndi flokkurinn",
+      "percent": 6.7
+    },
+    {
+      "year": 2003,
+      "constituency": "Suðvesturkjördæmi",
+      "party": "Nýtt afl",
+      "percent": 0.9
+    },
+    {
+      "year": 2003,
+      "constituency": "Suðvesturkjördæmi",
+      "party": "Samfylkingin",
+      "percent": 32.8
+    },
+    {
+      "year": 2003,
+      "constituency": "Suðvesturkjördæmi",
+      "party": "Vinstrihreyfingin - grænt framboð",
+      "percent": 6.2
+    },
+    {
+      "year": 2003,
+      "constituency": "Reykjavíkurkjördæmi suður",
+      "party": "Framsóknarflokkur",
+      "percent": 11.3
+    },
+    {
+      "year": 2003,
+      "constituency": "Reykjavíkurkjördæmi suður",
+      "party": "Sjálfstæðisflokkur",
+      "percent": 38
+    },
+    {
+      "year": 2003,
+      "constituency": "Reykjavíkurkjördæmi suður",
+      "party": "Frjálslyndi flokkurinn",
+      "percent": 6.6
+    },
+    {
+      "year": 2003,
+      "constituency": "Reykjavíkurkjördæmi suður",
+      "party": "Nýtt afl",
+      "percent": 1.4
+    },
+    {
+      "year": 2003,
+      "constituency": "Reykjavíkurkjördæmi suður",
+      "party": "Samfylkingin",
+      "percent": 33.3
+    },
+    {
+      "year": 2003,
+      "constituency": "Reykjavíkurkjördæmi suður",
+      "party": "Vinstrihreyfingin - grænt framboð",
+      "percent": 9.3
+    },
+    {
+      "year": 2003,
+      "constituency": "Reykjavíkurkjördæmi norður",
+      "party": "Framsóknarflokkur",
+      "percent": 11.6
+    },
+    {
+      "year": 2003,
+      "constituency": "Reykjavíkurkjördæmi norður",
+      "party": "Sjálfstæðisflokkur",
+      "percent": 35.5
+    },
+    {
+      "year": 2003,
+      "constituency": "Reykjavíkurkjördæmi norður",
+      "party": "Frjálslyndi flokkurinn",
+      "percent": 5.5
+    },
+    {
+      "year": 2003,
+      "constituency": "Reykjavíkurkjördæmi norður",
+      "party": "Nýtt afl",
+      "percent": 1.3
+    },
+    {
+      "year": 2003,
+      "constituency": "Reykjavíkurkjördæmi norður",
+      "party": "Samfylkingin",
+      "percent": 36.3
+    },
+    {
+      "year": 2003,
+      "constituency": "Reykjavíkurkjördæmi norður",
+      "party": "Vinstrihreyfingin - grænt framboð",
+      "percent": 9.8
+    }
+  ]
+}

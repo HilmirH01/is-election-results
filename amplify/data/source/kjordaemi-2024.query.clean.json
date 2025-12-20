@@ -1,0 +1,8 @@
+{
+  "query": [
+    { "code": "Atriði", "selection": { "filter": "item", "values": ["2"] } },
+    { "code": "Flokkur", "selection": { "filter": "item", "values": ["B","C","D","F","J","L","M","P","S","V","Y"] } },
+    { "code": "Kjördæmi", "selection": { "filter": "item", "values": ["NV","NA","SU","SV","RS","RN"] } }
+  ],
+  "response": { "format": "json-stat2" }
+}

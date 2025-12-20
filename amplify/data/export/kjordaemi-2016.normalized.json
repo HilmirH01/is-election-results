@@ -1,0 +1,376 @@
+{
+  "results": [
+    {
+      "year": 2016,
+      "constituency": "Norðvesturkjördæmi",
+      "party": "Björt framtíð",
+      "percent": 3.5
+    },
+    {
+      "year": 2016,
+      "constituency": "Norðvesturkjördæmi",
+      "party": "Framsóknarflokkur",
+      "percent": 20.8
+    },
+    {
+      "year": 2016,
+      "constituency": "Norðvesturkjördæmi",
+      "party": "Viðreisn",
+      "percent": 6.2
+    },
+    {
+      "year": 2016,
+      "constituency": "Norðvesturkjördæmi",
+      "party": "Sjálfstæðisflokkur",
+      "percent": 29.5
+    },
+    {
+      "year": 2016,
+      "constituency": "Norðvesturkjördæmi",
+      "party": "Íslenska þjóðfylkingin",
+      "percent": 0.5
+    },
+    {
+      "year": 2016,
+      "constituency": "Norðvesturkjördæmi",
+      "party": "Flokkur fólksins",
+      "percent": 2.5
+    },
+    {
+      "year": 2016,
+      "constituency": "Norðvesturkjördæmi",
+      "party": "Píratar",
+      "percent": 10.9
+    },
+    {
+      "year": 2016,
+      "constituency": "Norðvesturkjördæmi",
+      "party": "Samfylkingin",
+      "percent": 6.3
+    },
+    {
+      "year": 2016,
+      "constituency": "Norðvesturkjördæmi",
+      "party": "Dögun",
+      "percent": 1.7
+    },
+    {
+      "year": 2016,
+      "constituency": "Norðvesturkjördæmi",
+      "party": "Vinstrihreyfingin - grænt framboð",
+      "percent": 18.1
+    },
+    {
+      "year": 2016,
+      "constituency": "Norðausturkjördæmi",
+      "party": "Björt framtíð",
+      "percent": 3.4
+    },
+    {
+      "year": 2016,
+      "constituency": "Norðausturkjördæmi",
+      "party": "Framsóknarflokkur",
+      "percent": 20
+    },
+    {
+      "year": 2016,
+      "constituency": "Norðausturkjördæmi",
+      "party": "Viðreisn",
+      "percent": 6.5
+    },
+    {
+      "year": 2016,
+      "constituency": "Norðausturkjördæmi",
+      "party": "Sjálfstæðisflokkur",
+      "percent": 26.5
+    },
+    {
+      "year": 2016,
+      "constituency": "Norðausturkjördæmi",
+      "party": "Flokkur fólksins",
+      "percent": 2.8
+    },
+    {
+      "year": 2016,
+      "constituency": "Norðausturkjördæmi",
+      "party": "Píratar",
+      "percent": 10
+    },
+    {
+      "year": 2016,
+      "constituency": "Norðausturkjördæmi",
+      "party": "Alþýðufylkingin",
+      "percent": 0.9
+    },
+    {
+      "year": 2016,
+      "constituency": "Norðausturkjördæmi",
+      "party": "Samfylkingin",
+      "percent": 8
+    },
+    {
+      "year": 2016,
+      "constituency": "Norðausturkjördæmi",
+      "party": "Dögun",
+      "percent": 1.8
+    },
+    {
+      "year": 2016,
+      "constituency": "Norðausturkjördæmi",
+      "party": "Vinstrihreyfingin - grænt framboð",
+      "percent": 20
+    },
+    {
+      "year": 2016,
+      "constituency": "Suðurkjördæmi",
+      "party": "Björt framtíð",
+      "percent": 5.8
+    },
+    {
+      "year": 2016,
+      "constituency": "Suðurkjördæmi",
+      "party": "Framsóknarflokkur",
+      "percent": 19.1
+    },
+    {
+      "year": 2016,
+      "constituency": "Suðurkjördæmi",
+      "party": "Viðreisn",
+      "percent": 7.3
+    },
+    {
+      "year": 2016,
+      "constituency": "Suðurkjördæmi",
+      "party": "Sjálfstæðisflokkur",
+      "percent": 31.5
+    },
+    {
+      "year": 2016,
+      "constituency": "Suðurkjördæmi",
+      "party": "Íslenska þjóðfylkingin",
+      "percent": 0.8
+    },
+    {
+      "year": 2016,
+      "constituency": "Suðurkjördæmi",
+      "party": "Flokkur fólksins",
+      "percent": 3.6
+    },
+    {
+      "year": 2016,
+      "constituency": "Suðurkjördæmi",
+      "party": "Píratar",
+      "percent": 12.8
+    },
+    {
+      "year": 2016,
+      "constituency": "Suðurkjördæmi",
+      "party": "Alþýðufylkingin",
+      "percent": 0.3
+    },
+    {
+      "year": 2016,
+      "constituency": "Suðurkjördæmi",
+      "party": "Samfylkingin",
+      "percent": 6.4
+    },
+    {
+      "year": 2016,
+      "constituency": "Suðurkjördæmi",
+      "party": "Dögun",
+      "percent": 2.3
+    },
+    {
+      "year": 2016,
+      "constituency": "Suðurkjördæmi",
+      "party": "Vinstrihreyfingin - grænt framboð",
+      "percent": 10.2
+    },
+    {
+      "year": 2016,
+      "constituency": "Suðvesturkjördæmi",
+      "party": "Björt framtíð",
+      "percent": 10.2
+    },
+    {
+      "year": 2016,
+      "constituency": "Suðvesturkjördæmi",
+      "party": "Framsóknarflokkur",
+      "percent": 7.6
+    },
+    {
+      "year": 2016,
+      "constituency": "Suðvesturkjördæmi",
+      "party": "Viðreisn",
+      "percent": 12.9
+    },
+    {
+      "year": 2016,
+      "constituency": "Suðvesturkjördæmi",
+      "party": "Sjálfstæðisflokkur",
+      "percent": 33.9
+    },
+    {
+      "year": 2016,
+      "constituency": "Suðvesturkjördæmi",
+      "party": "Flokkur fólksins",
+      "percent": 3.3
+    },
+    {
+      "year": 2016,
+      "constituency": "Suðvesturkjördæmi",
+      "party": "Píratar",
+      "percent": 13.6
+    },
+    {
+      "year": 2016,
+      "constituency": "Suðvesturkjördæmi",
+      "party": "Alþýðufylkingin",
+      "percent": 0.2
+    },
+    {
+      "year": 2016,
+      "constituency": "Suðvesturkjördæmi",
+      "party": "Samfylkingin",
+      "percent": 4.8
+    },
+    {
+      "year": 2016,
+      "constituency": "Suðvesturkjördæmi",
+      "party": "Dögun",
+      "percent": 1.7
+    },
+    {
+      "year": 2016,
+      "constituency": "Suðvesturkjördæmi",
+      "party": "Vinstrihreyfingin - grænt framboð",
+      "percent": 12
+    },
+    {
+      "year": 2016,
+      "constituency": "Reykjavíkurkjördæmi suður",
+      "party": "Björt framtíð",
+      "percent": 7.2
+    },
+    {
+      "year": 2016,
+      "constituency": "Reykjavíkurkjördæmi suður",
+      "party": "Framsóknarflokkur",
+      "percent": 7.4
+    },
+    {
+      "year": 2016,
+      "constituency": "Reykjavíkurkjördæmi suður",
+      "party": "Viðreisn",
+      "percent": 12.7
+    },
+    {
+      "year": 2016,
+      "constituency": "Reykjavíkurkjördæmi suður",
+      "party": "Sjálfstæðisflokkur",
+      "percent": 25.6
+    },
+    {
+      "year": 2016,
+      "constituency": "Reykjavíkurkjördæmi suður",
+      "party": "Flokkur fólksins",
+      "percent": 4.6
+    },
+    {
+      "year": 2016,
+      "constituency": "Reykjavíkurkjördæmi suður",
+      "party": "Húmanistaflokkurinn",
+      "percent": 0.1
+    },
+    {
+      "year": 2016,
+      "constituency": "Reykjavíkurkjördæmi suður",
+      "party": "Píratar",
+      "percent": 17.3
+    },
+    {
+      "year": 2016,
+      "constituency": "Reykjavíkurkjördæmi suður",
+      "party": "Alþýðufylkingin",
+      "percent": 0.2
+    },
+    {
+      "year": 2016,
+      "constituency": "Reykjavíkurkjördæmi suður",
+      "party": "Samfylkingin",
+      "percent": 5.6
+    },
+    {
+      "year": 2016,
+      "constituency": "Reykjavíkurkjördæmi suður",
+      "party": "Dögun",
+      "percent": 1.7
+    },
+    {
+      "year": 2016,
+      "constituency": "Reykjavíkurkjördæmi suður",
+      "party": "Vinstrihreyfingin - grænt framboð",
+      "percent": 17.6
+    },
+    {
+      "year": 2016,
+      "constituency": "Reykjavíkurkjördæmi norður",
+      "party": "Björt framtíð",
+      "percent": 7.6
+    },
+    {
+      "year": 2016,
+      "constituency": "Reykjavíkurkjördæmi norður",
+      "party": "Framsóknarflokkur",
+      "percent": 5.7
+    },
+    {
+      "year": 2016,
+      "constituency": "Reykjavíkurkjördæmi norður",
+      "party": "Viðreisn",
+      "percent": 11.6
+    },
+    {
+      "year": 2016,
+      "constituency": "Reykjavíkurkjördæmi norður",
+      "party": "Sjálfstæðisflokkur",
+      "percent": 24.4
+    },
+    {
+      "year": 2016,
+      "constituency": "Reykjavíkurkjördæmi norður",
+      "party": "Flokkur fólksins",
+      "percent": 3.8
+    },
+    {
+      "year": 2016,
+      "constituency": "Reykjavíkurkjördæmi norður",
+      "party": "Píratar",
+      "percent": 19
+    },
+    {
+      "year": 2016,
+      "constituency": "Reykjavíkurkjördæmi norður",
+      "party": "Alþýðufylkingin",
+      "percent": 0.3
+    },
+    {
+      "year": 2016,
+      "constituency": "Reykjavíkurkjördæmi norður",
+      "party": "Samfylkingin",
+      "percent": 5.2
+    },
+    {
+      "year": 2016,
+      "constituency": "Reykjavíkurkjördæmi norður",
+      "party": "Dögun",
+      "percent": 1.4
+    },
+    {
+      "year": 2016,
+      "constituency": "Reykjavíkurkjördæmi norður",
+      "party": "Vinstrihreyfingin - grænt framboð",
+      "percent": 20.9
+    }
+  ]
+}

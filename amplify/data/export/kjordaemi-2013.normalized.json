@@ -1,0 +1,436 @@
+{
+  "results": [
+    {
+      "year": 2013,
+      "constituency": "Norðvesturkjördæmi",
+      "party": "Björt framtíð",
+      "percent": 4.6
+    },
+    {
+      "year": 2013,
+      "constituency": "Norðvesturkjördæmi",
+      "party": "Framsóknarflokkur",
+      "percent": 35.2
+    },
+    {
+      "year": 2013,
+      "constituency": "Norðvesturkjördæmi",
+      "party": "Sjálfstæðisflokkur",
+      "percent": 24.7
+    },
+    {
+      "year": 2013,
+      "constituency": "Norðvesturkjördæmi",
+      "party": "Hægri grænir",
+      "percent": 1.2
+    },
+    {
+      "year": 2013,
+      "constituency": "Norðvesturkjördæmi",
+      "party": "Flokkur heimilanna",
+      "percent": 0.9
+    },
+    {
+      "year": 2013,
+      "constituency": "Norðvesturkjördæmi",
+      "party": "Regnboginn",
+      "percent": 4.5
+    },
+    {
+      "year": 2013,
+      "constituency": "Norðvesturkjördæmi",
+      "party": "Lýðræðisvaktin",
+      "percent": 1.4
+    },
+    {
+      "year": 2013,
+      "constituency": "Norðvesturkjördæmi",
+      "party": "Landsbyggðarflokkurinn",
+      "percent": 1.9
+    },
+    {
+      "year": 2013,
+      "constituency": "Norðvesturkjördæmi",
+      "party": "Samfylkingin",
+      "percent": 12.2
+    },
+    {
+      "year": 2013,
+      "constituency": "Norðvesturkjördæmi",
+      "party": "Dögun",
+      "percent": 1.9
+    },
+    {
+      "year": 2013,
+      "constituency": "Norðvesturkjördæmi",
+      "party": "Vinstrihreyfingin - grænt framboð",
+      "percent": 8.5
+    },
+    {
+      "year": 2013,
+      "constituency": "Norðvesturkjördæmi",
+      "party": "Píratar",
+      "percent": 3.1
+    },
+    {
+      "year": 2013,
+      "constituency": "Norðausturkjördæmi",
+      "party": "Björt framtíð",
+      "percent": 6.5
+    },
+    {
+      "year": 2013,
+      "constituency": "Norðausturkjördæmi",
+      "party": "Framsóknarflokkur",
+      "percent": 34.6
+    },
+    {
+      "year": 2013,
+      "constituency": "Norðausturkjördæmi",
+      "party": "Sjálfstæðisflokkur",
+      "percent": 22.6
+    },
+    {
+      "year": 2013,
+      "constituency": "Norðausturkjördæmi",
+      "party": "Hægri grænir",
+      "percent": 1.3
+    },
+    {
+      "year": 2013,
+      "constituency": "Norðausturkjördæmi",
+      "party": "Flokkur heimilanna",
+      "percent": 1
+    },
+    {
+      "year": 2013,
+      "constituency": "Norðausturkjördæmi",
+      "party": "Regnboginn",
+      "percent": 1.3
+    },
+    {
+      "year": 2013,
+      "constituency": "Norðausturkjördæmi",
+      "party": "Lýðræðisvaktin",
+      "percent": 1.3
+    },
+    {
+      "year": 2013,
+      "constituency": "Norðausturkjördæmi",
+      "party": "Samfylkingin",
+      "percent": 10.6
+    },
+    {
+      "year": 2013,
+      "constituency": "Norðausturkjördæmi",
+      "party": "Dögun",
+      "percent": 1.9
+    },
+    {
+      "year": 2013,
+      "constituency": "Norðausturkjördæmi",
+      "party": "Vinstrihreyfingin - grænt framboð",
+      "percent": 15.8
+    },
+    {
+      "year": 2013,
+      "constituency": "Norðausturkjördæmi",
+      "party": "Píratar",
+      "percent": 3
+    },
+    {
+      "year": 2013,
+      "constituency": "Suðurkjördæmi",
+      "party": "Björt framtíð",
+      "percent": 4.5
+    },
+    {
+      "year": 2013,
+      "constituency": "Suðurkjördæmi",
+      "party": "Framsóknarflokkur",
+      "percent": 34.5
+    },
+    {
+      "year": 2013,
+      "constituency": "Suðurkjördæmi",
+      "party": "Sjálfstæðisflokkur",
+      "percent": 28.3
+    },
+    {
+      "year": 2013,
+      "constituency": "Suðurkjördæmi",
+      "party": "Hægri grænir",
+      "percent": 2.6
+    },
+    {
+      "year": 2013,
+      "constituency": "Suðurkjördæmi",
+      "party": "Flokkur heimilanna",
+      "percent": 2.9
+    },
+    {
+      "year": 2013,
+      "constituency": "Suðurkjördæmi",
+      "party": "Regnboginn",
+      "percent": 1.5
+    },
+    {
+      "year": 2013,
+      "constituency": "Suðurkjördæmi",
+      "party": "Lýðræðisvaktin",
+      "percent": 1.6
+    },
+    {
+      "year": 2013,
+      "constituency": "Suðurkjördæmi",
+      "party": "Samfylkingin",
+      "percent": 10.2
+    },
+    {
+      "year": 2013,
+      "constituency": "Suðurkjördæmi",
+      "party": "Dögun",
+      "percent": 3.4
+    },
+    {
+      "year": 2013,
+      "constituency": "Suðurkjördæmi",
+      "party": "Vinstrihreyfingin - grænt framboð",
+      "percent": 5.9
+    },
+    {
+      "year": 2013,
+      "constituency": "Suðurkjördæmi",
+      "party": "Píratar",
+      "percent": 4.7
+    },
+    {
+      "year": 2013,
+      "constituency": "Suðvesturkjördæmi",
+      "party": "Björt framtíð",
+      "percent": 9.2
+    },
+    {
+      "year": 2013,
+      "constituency": "Suðvesturkjördæmi",
+      "party": "Framsóknarflokkur",
+      "percent": 21.5
+    },
+    {
+      "year": 2013,
+      "constituency": "Suðvesturkjördæmi",
+      "party": "Sjálfstæðisflokkur",
+      "percent": 30.7
+    },
+    {
+      "year": 2013,
+      "constituency": "Suðvesturkjördæmi",
+      "party": "Hægri grænir",
+      "percent": 1.8
+    },
+    {
+      "year": 2013,
+      "constituency": "Suðvesturkjördæmi",
+      "party": "Flokkur heimilanna",
+      "percent": 3.6
+    },
+    {
+      "year": 2013,
+      "constituency": "Suðvesturkjördæmi",
+      "party": "Regnboginn",
+      "percent": 0.4
+    },
+    {
+      "year": 2013,
+      "constituency": "Suðvesturkjördæmi",
+      "party": "Lýðræðisvaktin",
+      "percent": 2.4
+    },
+    {
+      "year": 2013,
+      "constituency": "Suðvesturkjördæmi",
+      "party": "Samfylkingin",
+      "percent": 13.6
+    },
+    {
+      "year": 2013,
+      "constituency": "Suðvesturkjördæmi",
+      "party": "Dögun",
+      "percent": 3.8
+    },
+    {
+      "year": 2013,
+      "constituency": "Suðvesturkjördæmi",
+      "party": "Vinstrihreyfingin - grænt framboð",
+      "percent": 7.9
+    },
+    {
+      "year": 2013,
+      "constituency": "Suðvesturkjördæmi",
+      "party": "Píratar",
+      "percent": 5
+    },
+    {
+      "year": 2013,
+      "constituency": "Reykjavíkurkjördæmi suður",
+      "party": "Björt framtíð",
+      "percent": 10.7
+    },
+    {
+      "year": 2013,
+      "constituency": "Reykjavíkurkjördæmi suður",
+      "party": "Framsóknarflokkur",
+      "percent": 16.8
+    },
+    {
+      "year": 2013,
+      "constituency": "Reykjavíkurkjördæmi suður",
+      "party": "Sjálfstæðisflokkur",
+      "percent": 26.8
+    },
+    {
+      "year": 2013,
+      "constituency": "Reykjavíkurkjördæmi suður",
+      "party": "Hægri grænir",
+      "percent": 1.6
+    },
+    {
+      "year": 2013,
+      "constituency": "Reykjavíkurkjördæmi suður",
+      "party": "Húmanistaflokkurinn",
+      "percent": 0.2
+    },
+    {
+      "year": 2013,
+      "constituency": "Reykjavíkurkjördæmi suður",
+      "party": "Flokkur heimilanna",
+      "percent": 3.9
+    },
+    {
+      "year": 2013,
+      "constituency": "Reykjavíkurkjördæmi suður",
+      "party": "Regnboginn",
+      "percent": 0.5
+    },
+    {
+      "year": 2013,
+      "constituency": "Reykjavíkurkjördæmi suður",
+      "party": "Sturla Jónsson, K-listi",
+      "percent": 0.6
+    },
+    {
+      "year": 2013,
+      "constituency": "Reykjavíkurkjördæmi suður",
+      "party": "Lýðræðisvaktin",
+      "percent": 2.9
+    },
+    {
+      "year": 2013,
+      "constituency": "Reykjavíkurkjördæmi suður",
+      "party": "Alþýðufylkingin",
+      "percent": 0.2
+    },
+    {
+      "year": 2013,
+      "constituency": "Reykjavíkurkjördæmi suður",
+      "party": "Samfylkingin",
+      "percent": 14.2
+    },
+    {
+      "year": 2013,
+      "constituency": "Reykjavíkurkjördæmi suður",
+      "party": "Dögun",
+      "percent": 3.3
+    },
+    {
+      "year": 2013,
+      "constituency": "Reykjavíkurkjördæmi suður",
+      "party": "Vinstrihreyfingin - grænt framboð",
+      "percent": 12.1
+    },
+    {
+      "year": 2013,
+      "constituency": "Reykjavíkurkjördæmi suður",
+      "party": "Píratar",
+      "percent": 6.2
+    },
+    {
+      "year": 2013,
+      "constituency": "Reykjavíkurkjördæmi norður",
+      "party": "Björt framtíð",
+      "percent": 10.2
+    },
+    {
+      "year": 2013,
+      "constituency": "Reykjavíkurkjördæmi norður",
+      "party": "Framsóknarflokkur",
+      "percent": 16.4
+    },
+    {
+      "year": 2013,
+      "constituency": "Reykjavíkurkjördæmi norður",
+      "party": "Sjálfstæðisflokkur",
+      "percent": 23.4
+    },
+    {
+      "year": 2013,
+      "constituency": "Reykjavíkurkjördæmi norður",
+      "party": "Hægri grænir",
+      "percent": 1.6
+    },
+    {
+      "year": 2013,
+      "constituency": "Reykjavíkurkjördæmi norður",
+      "party": "Húmanistaflokkurinn",
+      "percent": 0.2
+    },
+    {
+      "year": 2013,
+      "constituency": "Reykjavíkurkjördæmi norður",
+      "party": "Flokkur heimilanna",
+      "percent": 3.7
+    },
+    {
+      "year": 2013,
+      "constituency": "Reykjavíkurkjördæmi norður",
+      "party": "Regnboginn",
+      "percent": 0.5
+    },
+    {
+      "year": 2013,
+      "constituency": "Reykjavíkurkjördæmi norður",
+      "party": "Lýðræðisvaktin",
+      "percent": 4
+    },
+    {
+      "year": 2013,
+      "constituency": "Reykjavíkurkjördæmi norður",
+      "party": "Alþýðufylkingin",
+      "percent": 0.2
+    },
+    {
+      "year": 2013,
+      "constituency": "Reykjavíkurkjördæmi norður",
+      "party": "Samfylkingin",
+      "percent": 14.3
+    },
+    {
+      "year": 2013,
+      "constituency": "Reykjavíkurkjördæmi norður",
+      "party": "Dögun",
+      "percent": 3.1
+    },
+    {
+      "year": 2013,
+      "constituency": "Reykjavíkurkjördæmi norður",
+      "party": "Vinstrihreyfingin - grænt framboð",
+      "percent": 15.7
+    },
+    {
+      "year": 2013,
+      "constituency": "Reykjavíkurkjördæmi norður",
+      "party": "Píratar",
+      "percent": 6.9
+    }
+  ]
+}
