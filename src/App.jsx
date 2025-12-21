@@ -179,68 +179,50 @@ function PieChart({ rows }) {
    App
 ======================= */
 export default function App() {
+  const TOTAL = "Landsheild";
   const [national, setNational] = useState(null);
   const [constData, setConstData] = useState(null);
   const [year, setYear] = useState(null);
   const [view, setView] = useState("bars"); // bars | pie
-  const [constituency, setConstituency] = useState("Landsheild");
+  const [constituency, setConstituency] = useState(TOTAL);
 
 
   useEffect(() => {
-    let cancelled = false;
+    async function loadNationalData() {
+      const response = await fetch("/results.json", { cache: "no-store" })
+      if (response.ok) {
+        const data = await response.json();
+        setNational(data);
 
-    (async () => {
-      const [resNat, resCon] = await Promise.all([
-        fetch("/results.json", { cache: "no-store" }),
-        fetch("/results-kjordaemi.json", { cache: "no-store" }),
-      ]);
-
-      if (!resNat.ok) throw new Error("Gat ekki sótt results.json");
-      const nat = await resNat.json();
-      if (cancelled) return;
-
-      setNational(nat);
-
-      // tryggja að year sé alltaf til í nat.years
-      setYear((prev) => {
-        const years = nat?.years ?? [];
-        if (!years.length) return null;
-        const prevNum = Number(prev);
-        return years.includes(prevNum) ? prevNum : Number(years[years.length - 1]);
-      });
-
-      if (resCon.ok) {
-        const con = await resCon.json();
-        if (cancelled) return;
-        setConstData(con);
-      } else {
-        setConstData(null);
+        if (data.years?.length) {
+          const newestYear = Number(data.years[data.years.length - 1]);
+          setYear(newestYear)
+        }
       }
+    }
 
-      // default kjördæmi ef tómt
-      setConstituency((c) => c || "Landsheild");
-    })().catch((err) => {
-      console.error(err);
-      setNational({ years: [], results: [], error: String(err) });
-      setConstData(null);
-    });
+    async function loadConstituencyData() {
+      const response = await fetch("/results-kjordaemi.json", { cache: "no-store" })
+      if (response.ok) {
+        const data = await response.json();
+        setConstData(data);
+      }
+    }
 
-    return () => {
-      cancelled = true;
-    };
-  }, []);
-
+    loadNationalData()
+    loadConstituencyData();
+  },[]);
 
   
   const constituencies = useMemo(() => {
     const list = constData?.constituencies ?? [];
-    return ["Landsheild", ...list];
+    return [TOTAL, ...list];
   }, [constData]);
 
   const rows = useMemo(() => {
     if (!year) return [];
 
-    if (constituency === "Landsheild") {
+    if (constituency === TOTAL) {
       const data = national;
       if (!data) return [];
       return (data.results ?? [])
