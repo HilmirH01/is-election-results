@@ -1,55 +1,61 @@
 import fs from "node:fs/promises";
 import path from "node:path";
 
-const INPUT = "amplify/data/source/kosningar.raw.json";
+const INPUT_PERCENT = "amplify/data/source/kosningar.raw.json";
+const INPUT_SEATS = "amplify/data/source/kosningar-seats.raw.json";
 const OUTPUT = "public/results.json";
 
 function isMissing(v) {
   return v === null || v === undefined || v === "." || v === "..";
 }
 
-async function main() {
-  const ds = JSON.parse(await fs.readFile(INPUT, "utf8"));
+function orderedKeys(dimObj) {
+  const idx = dimObj.category.index;
+  return Object.keys(idx).sort((a, b) => idx[a] - idx[b]);
+}
 
-  // json-stat2
-  const ids = ds.id;         // t.d. ["Atriði","Flokkur","Ár"]
-  const sizes = ds.size;     // t.d. [1, 21, 8]
-  const values = ds.value;   // flat array
+async function readJson(file) {
+  return JSON.parse(await fs.readFile(file, "utf8"));
+}
 
+function parseNational(ds, mode) {
+  // mode: "percent" | "seats"
+  const ids = ds.id;
+  const sizes = ds.size;
+  const values = ds.value;
   const dim = ds.dimension;
 
-  // Finna röð vídda
-  const iAtr = ids.indexOf("Atriði");
+  const iAtr = ids.indexOf("Atriði"); // til staðar í KOS02121
   const iParty = ids.indexOf("Flokkur");
   const iYear = ids.indexOf("Ár");
 
   if (iParty === -1 || iYear === -1) {
-    throw new Error(`Vænti víddunum "Flokkur" og "Ár" í json-stat2, fann: ${ids.join(", ")}`);
+    throw new Error(`Vænti "Flokkur" og "Ár", fann: ${ids.join(", ")}`);
   }
 
-  // Category keys (í sömu röð og index notar)
-  const partyKeys = Object.keys(dim["Flokkur"].category.index)
-    .sort((a, b) => dim["Flokkur"].category.index[a] - dim["Flokkur"].category.index[b]);
-
-  const yearKeys = Object.keys(dim["Ár"].category.index)
-    .sort((a, b) => dim["Ár"].category.index[a] - dim["Ár"].category.index[b]);
-
-  const partyLabel = dim["Flokkur"].category.label;
-  const yearLabel = dim["Ár"].category.label;
-
-  // Reikna offset/multipliers fyrir flat array index
+  // multipliers
   const mult = [];
   for (let k = ids.length - 1, m = 1; k >= 0; k--) {
     mult[k] = m;
     m *= sizes[k];
   }
 
-  const results = [];
+  const partyKeys = orderedKeys(dim["Flokkur"]);
+  const yearKeys = orderedKeys(dim["Ár"]);
 
+  const partyLabel = dim["Flokkur"].category.label;
+  const yearLabel = dim["Ár"].category.label;
+
+  // Atriði: percent/raw voru líklega "1" (prósenta) og seats query er "2"
+  // Við gerum ráð fyrir að inputið sé þegar síað í query -> bara eitt atriði,
+  // en ef Atriði er samt til staðar í output, tökum alltaf 0.
+  const atrIndex = iAtr !== -1 ? 0 : null;
+
+  const rows = [];
   for (let p = 0; p < partyKeys.length; p++) {
     for (let y = 0; y < yearKeys.length; y++) {
-      // Atriði er bara 1 gildi, tökum 0
       const idxParts = new Array(ids.length).fill(0);
+      if (iAtr !== -1) idxParts[iAtr] = atrIndex;
       idxParts[iParty] = p;
       idxParts[iYear] = y;
 
@@ -61,22 +67,48 @@ async function main() {
       const party = partyLabel[partyKeys[p]] ?? partyKeys[p];
       const year = Number(yearLabel[yearKeys[y]] ?? yearKeys[y]);
 
-      results.push({ year, party, percent: Number(v) });
+      rows.push({
+        year,
+        party,
+        value: mode === "seats" ? Number(v) : Number(v),
+      });
     }
   }
 
-  // Top 9 per ár
+  return rows;
+}
+
+async function main() {
+  const dsPercent = await readJson(INPUT_PERCENT);
+  const dsSeats = await readJson(INPUT_SEATS);
+
+  const percentRows = parseNational(dsPercent, "percent");
+  const seatRows = parseNational(dsSeats, "seats");
+
+  // indexa seats á (year,party)
+  const seatMap = new Map();
+  for (const r of seatRows) seatMap.set(`${r.year}__${r.party}`, r.value);
+
+  // sameina inn í percent rows
+  const merged = percentRows.map((r) => ({
+    year: r.year,
+    party: r.party,
+    percent: r.value,
+    seats: seatMap.get(`${r.year}__${r.party}`) ?? null,
+  }));
+
+  // top 9 per ár (eftir prósentu)
   const byYear = {};
-  for (const r of results) (byYear[r.year] ??= []).push(r);
+  for (const r of merged) (byYear[r.year] ??= []).push(r);
 
   const finalResults = [];
   for (const year of Object.keys(byYear)) {
-    finalResults.push(...byYear[year].sort((a,b) => b.percent - a.percent).slice(0, 9));
+    finalResults.push(...byYear[year].sort((a, b) => b.percent - a.percent).slice(0, 9));
   }
 
   const output = {
-    years: Object.keys(byYear).map(Number).sort((a,b) => a-b),
-    results: finalResults
+    years: Object.keys(byYear).map(Number).sort((a, b) => a - b),
+    results: finalResults,
   };
 
   await fs.mkdir(path.dirname(OUTPUT), { recursive: true });

@@ -1,0 +1,20 @@
+{
+  "query": [
+    {
+      "code": "Atriði",
+      "selection": { "filter": "item", "values": ["2"] }
+    },
+    {
+      "code": "Flokkur",
+      "selection": { "filter": "all", "values": ["*"] }
+    },
+    {
+      "code": "Ár",
+      "selection": {
+        "filter": "item",
+        "values": ["11", "12", "13", "14", "15", "16", "17", "18"]
+      }
+    }
+  ],
+  "response": { "format": "json-stat2" }
+}

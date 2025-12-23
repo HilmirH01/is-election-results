@@ -141,7 +141,10 @@ export default function App() {
                   <div className="content">
                     <div className="titleLine">
                       <div className="partyName">{r.party}</div>
-                      <div className="pct">{formatPct(r.percent)}</div>
+                      <div className="metrics">
+                        <div className="seats">{r.seats ?? "0"} sæti</div>
+                        <div className="pct">{formatPct(r.percent)}</div>
+                      </div>
                     </div>
                     <div className="barTrack">
                       <div

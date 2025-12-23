@@ -22,2311 +22,2696 @@
       "year": 2003,
       "constituency": "Norðvesturkjördæmi",
       "party": "Sjálfstæðisflokkur",
-      "percent": 29.6
+      "percent": 29.6,
+      "seats": 3
     },
     {
       "year": 2003,
       "constituency": "Norðvesturkjördæmi",
       "party": "Samfylkingin",
-      "percent": 23.2
+      "percent": 23.2,
+      "seats": 2
     },
     {
       "year": 2003,
       "constituency": "Norðvesturkjördæmi",
       "party": "Framsóknarflokkur",
-      "percent": 21.7
+      "percent": 21.7,
+      "seats": 2
     },
     {
       "year": 2003,
       "constituency": "Norðvesturkjördæmi",
       "party": "Frjálslyndi flokkurinn",
-      "percent": 14.2
+      "percent": 14.2,
+      "seats": 2
     },
     {
       "year": 2003,
       "constituency": "Norðvesturkjördæmi",
       "party": "Vinstrihreyfingin - grænt framboð",
-      "percent": 10.6
+      "percent": 10.6,
+      "seats": 1
     },
     {
       "year": 2003,
       "constituency": "Norðvesturkjördæmi",
       "party": "Nýtt afl",
-      "percent": 0.7
+      "percent": 0.7,
+      "seats": 0
     },
     {
       "year": 2003,
       "constituency": "Norðausturkjördæmi",
       "party": "Framsóknarflokkur",
-      "percent": 32.8
+      "percent": 32.8,
+      "seats": 4
     },
     {
       "year": 2003,
       "constituency": "Norðausturkjördæmi",
       "party": "Sjálfstæðisflokkur",
-      "percent": 23.5
+      "percent": 23.5,
+      "seats": 2
     },
     {
       "year": 2003,
       "constituency": "Norðausturkjördæmi",
       "party": "Samfylkingin",
-      "percent": 23.4
+      "percent": 23.4,
+      "seats": 2
     },
     {
       "year": 2003,
       "constituency": "Norðausturkjördæmi",
       "party": "Vinstrihreyfingin - grænt framboð",
-      "percent": 14.1
+      "percent": 14.1,
+      "seats": 2
     },
     {
       "year": 2003,
       "constituency": "Norðausturkjördæmi",
       "party": "Frjálslyndi flokkurinn",
-      "percent": 5.6
+      "percent": 5.6,
+      "seats": 0
     },
     {
       "year": 2003,
       "constituency": "Norðausturkjördæmi",
       "party": "Nýtt afl",
-      "percent": 0.6
+      "percent": 0.6,
+      "seats": 0
     },
     {
       "year": 2003,
       "constituency": "Suðurkjördæmi",
       "party": "Samfylkingin",
-      "percent": 29.7
+      "percent": 29.7,
+      "seats": 4
     },
     {
       "year": 2003,
       "constituency": "Suðurkjördæmi",
       "party": "Sjálfstæðisflokkur",
-      "percent": 29.2
+      "percent": 29.2,
+      "seats": 3
     },
     {
       "year": 2003,
       "constituency": "Suðurkjördæmi",
       "party": "Framsóknarflokkur",
-      "percent": 23.7
+      "percent": 23.7,
+      "seats": 2
     },
     {
       "year": 2003,
       "constituency": "Suðurkjördæmi",
       "party": "Frjálslyndi flokkurinn",
-      "percent": 8.7
+      "percent": 8.7,
+      "seats": 1
     },
     {
       "year": 2003,
       "constituency": "Suðurkjördæmi",
       "party": "Vinstrihreyfingin - grænt framboð",
-      "percent": 4.7
+      "percent": 4.7,
+      "seats": 0
     },
     {
       "year": 2003,
       "constituency": "Suðurkjördæmi",
       "party": "Framboð óháðra í suðurkjördæmi",
-      "percent": 3.4
+      "percent": 3.4,
+      "seats": 0
     },
     {
       "year": 2003,
       "constituency": "Suðurkjördæmi",
       "party": "Nýtt afl",
-      "percent": 0.7
+      "percent": 0.7,
+      "seats": 0
     },
     {
       "year": 2003,
       "constituency": "Suðvesturkjördæmi",
       "party": "Sjálfstæðisflokkur",
-      "percent": 38.4
+      "percent": 38.4,
+      "seats": 5
     },
     {
       "year": 2003,
       "constituency": "Suðvesturkjördæmi",
       "party": "Samfylkingin",
-      "percent": 32.8
+      "percent": 32.8,
+      "seats": 4
     },
     {
       "year": 2003,
       "constituency": "Suðvesturkjördæmi",
       "party": "Framsóknarflokkur",
-      "percent": 14.9
+      "percent": 14.9,
+      "seats": 1
     },
     {
       "year": 2003,
       "constituency": "Suðvesturkjördæmi",
       "party": "Frjálslyndi flokkurinn",
-      "percent": 6.7
+      "percent": 6.7,
+      "seats": 1
     },
     {
       "year": 2003,
       "constituency": "Suðvesturkjördæmi",
       "party": "Vinstrihreyfingin - grænt framboð",
-      "percent": 6.2
+      "percent": 6.2,
+      "seats": 0
     },
     {
       "year": 2003,
       "constituency": "Suðvesturkjördæmi",
       "party": "Nýtt afl",
-      "percent": 0.9
+      "percent": 0.9,
+      "seats": 0
     },
     {
       "year": 2003,
       "constituency": "Reykjavíkurkjördæmi suður",
       "party": "Sjálfstæðisflokkur",
-      "percent": 38
+      "percent": 38,
+      "seats": 5
     },
     {
       "year": 2003,
       "constituency": "Reykjavíkurkjördæmi suður",
       "party": "Samfylkingin",
-      "percent": 33.3
+      "percent": 33.3,
+      "seats": 4
     },
     {
       "year": 2003,
       "constituency": "Reykjavíkurkjördæmi suður",
       "party": "Framsóknarflokkur",
-      "percent": 11.3
+      "percent": 11.3,
+      "seats": 1
     },
     {
       "year": 2003,
       "constituency": "Reykjavíkurkjördæmi suður",
       "party": "Vinstrihreyfingin - grænt framboð",
-      "percent": 9.3
+      "percent": 9.3,
+      "seats": 1
     },
     {
       "year": 2003,
       "constituency": "Reykjavíkurkjördæmi suður",
       "party": "Frjálslyndi flokkurinn",
-      "percent": 6.6
+      "percent": 6.6,
+      "seats": 0
     },
     {
       "year": 2003,
       "constituency": "Reykjavíkurkjördæmi suður",
       "party": "Nýtt afl",
-      "percent": 1.4
+      "percent": 1.4,
+      "seats": 0
     },
     {
       "year": 2003,
       "constituency": "Reykjavíkurkjördæmi norður",
       "party": "Samfylkingin",
-      "percent": 36.3
+      "percent": 36.3,
+      "seats": 4
     },
     {
       "year": 2003,
       "constituency": "Reykjavíkurkjördæmi norður",
       "party": "Sjálfstæðisflokkur",
-      "percent": 35.5
+      "percent": 35.5,
+      "seats": 4
     },
     {
       "year": 2003,
       "constituency": "Reykjavíkurkjördæmi norður",
       "party": "Framsóknarflokkur",
-      "percent": 11.6
+      "percent": 11.6,
+      "seats": 2
     },
     {
       "year": 2003,
       "constituency": "Reykjavíkurkjördæmi norður",
       "party": "Vinstrihreyfingin - grænt framboð",
-      "percent": 9.8
+      "percent": 9.8,
+      "seats": 1
     },
     {
       "year": 2003,
       "constituency": "Reykjavíkurkjördæmi norður",
       "party": "Frjálslyndi flokkurinn",
-      "percent": 5.5
+      "percent": 5.5,
+      "seats": 0
     },
     {
       "year": 2003,
       "constituency": "Reykjavíkurkjördæmi norður",
       "party": "Nýtt afl",
-      "percent": 1.3
+      "percent": 1.3,
+      "seats": 0
     },
     {
       "year": 2007,
       "constituency": "Norðvesturkjördæmi",
       "party": "Sjálfstæðisflokkur",
-      "percent": 29.1
+      "percent": 29.1,
+      "seats": 3
     },
     {
       "year": 2007,
       "constituency": "Norðvesturkjördæmi",
       "party": "Samfylkingin",
-      "percent": 21.2
+      "percent": 21.2,
+      "seats": 2
     },
     {
       "year": 2007,
       "constituency": "Norðvesturkjördæmi",
       "party": "Framsóknarflokkur",
-      "percent": 18.8
+      "percent": 18.8,
+      "seats": 1
     },
     {
       "year": 2007,
       "constituency": "Norðvesturkjördæmi",
       "party": "Vinstrihreyfingin - grænt framboð",
-      "percent": 16
+      "percent": 16,
+      "seats": 1
     },
     {
       "year": 2007,
       "constituency": "Norðvesturkjördæmi",
       "party": "Frjálslyndi flokkurinn",
-      "percent": 13.6
+      "percent": 13.6,
+      "seats": 2
     },
     {
       "year": 2007,
       "constituency": "Norðvesturkjördæmi",
       "party": "Íslandshreyfingin",
-      "percent": 1.4
+      "percent": 1.4,
+      "seats": 0
     },
     {
       "year": 2007,
       "constituency": "Norðausturkjördæmi",
       "party": "Sjálfstæðisflokkur",
-      "percent": 28
+      "percent": 28,
+      "seats": 3
     },
     {
       "year": 2007,
       "constituency": "Norðausturkjördæmi",
       "party": "Framsóknarflokkur",
-      "percent": 24.6
+      "percent": 24.6,
+      "seats": 3
     },
     {
       "year": 2007,
       "constituency": "Norðausturkjördæmi",
       "party": "Samfylkingin",
-      "percent": 20.8
+      "percent": 20.8,
+      "seats": 2
     },
     {
       "year": 2007,
       "constituency": "Norðausturkjördæmi",
       "party": "Vinstrihreyfingin - grænt framboð",
-      "percent": 19.6
+      "percent": 19.6,
+      "seats": 2
     },
     {
       "year": 2007,
       "constituency": "Norðausturkjördæmi",
       "party": "Frjálslyndi flokkurinn",
-      "percent": 5.9
+      "percent": 5.9,
+      "seats": 0
     },
     {
       "year": 2007,
       "constituency": "Norðausturkjördæmi",
       "party": "Íslandshreyfingin",
-      "percent": 1.2
+      "percent": 1.2,
+      "seats": 0
     },
     {
       "year": 2007,
       "constituency": "Suðurkjördæmi",
       "party": "Sjálfstæðisflokkur",
-      "percent": 36
+      "percent": 36,
+      "seats": 4
     },
     {
       "year": 2007,
       "constituency": "Suðurkjördæmi",
       "party": "Samfylkingin",
-      "percent": 26.8
+      "percent": 26.8,
+      "seats": 2
     },
     {
       "year": 2007,
       "constituency": "Suðurkjördæmi",
       "party": "Framsóknarflokkur",
-      "percent": 18.7
+      "percent": 18.7,
+      "seats": 2
     },
     {
       "year": 2007,
       "constituency": "Suðurkjördæmi",
       "party": "Vinstrihreyfingin - grænt framboð",
-      "percent": 9.9
+      "percent": 9.9,
+      "seats": 1
     },
     {
       "year": 2007,
       "constituency": "Suðurkjördæmi",
       "party": "Frjálslyndi flokkurinn",
-      "percent": 7
+      "percent": 7,
+      "seats": 1
     },
     {
       "year": 2007,
       "constituency": "Suðurkjördæmi",
       "party": "Íslandshreyfingin",
-      "percent": 1.7
+      "percent": 1.7,
+      "seats": 0
     },
     {
       "year": 2007,
       "constituency": "Suðvesturkjördæmi",
       "party": "Sjálfstæðisflokkur",
-      "percent": 42.6
+      "percent": 42.6,
+      "seats": 6
     },
     {
       "year": 2007,
       "constituency": "Suðvesturkjördæmi",
       "party": "Samfylkingin",
-      "percent": 28.4
+      "percent": 28.4,
+      "seats": 4
     },
     {
       "year": 2007,
       "constituency": "Suðvesturkjördæmi",
       "party": "Vinstrihreyfingin - grænt framboð",
-      "percent": 11.6
+      "percent": 11.6,
+      "seats": 1
     },
     {
       "year": 2007,
       "constituency": "Suðvesturkjördæmi",
       "party": "Framsóknarflokkur",
-      "percent": 7.2
+      "percent": 7.2,
+      "seats": 1
     },
     {
       "year": 2007,
       "constituency": "Suðvesturkjördæmi",
       "party": "Frjálslyndi flokkurinn",
-      "percent": 6.7
+      "percent": 6.7,
+      "seats": 0
     },
     {
       "year": 2007,
       "constituency": "Suðvesturkjördæmi",
       "party": "Íslandshreyfingin",
-      "percent": 3.5
+      "percent": 3.5,
+      "seats": 0
     },
     {
       "year": 2007,
       "constituency": "Reykjavíkurkjördæmi suður",
       "party": "Sjálfstæðisflokkur",
-      "percent": 39.2
+      "percent": 39.2,
+      "seats": 5
     },
     {
       "year": 2007,
       "constituency": "Reykjavíkurkjördæmi suður",
       "party": "Samfylkingin",
-      "percent": 29
+      "percent": 29,
+      "seats": 3
     },
     {
       "year": 2007,
       "constituency": "Reykjavíkurkjördæmi suður",
       "party": "Vinstrihreyfingin - grænt framboð",
-      "percent": 14.4
+      "percent": 14.4,
+      "seats": 2
     },
     {
       "year": 2007,
       "constituency": "Reykjavíkurkjördæmi suður",
       "party": "Frjálslyndi flokkurinn",
-      "percent": 6.8
+      "percent": 6.8,
+      "seats": 1
     },
     {
       "year": 2007,
       "constituency": "Reykjavíkurkjördæmi suður",
       "party": "Framsóknarflokkur",
-      "percent": 5.9
+      "percent": 5.9,
+      "seats": 0
     },
     {
       "year": 2007,
       "constituency": "Reykjavíkurkjördæmi suður",
       "party": "Íslandshreyfingin",
-      "percent": 4.8
+      "percent": 4.8,
+      "seats": 0
     },
     {
       "year": 2007,
       "constituency": "Reykjavíkurkjördæmi norður",
       "party": "Sjálfstæðisflokkur",
-      "percent": 36.4
+      "percent": 36.4,
+      "seats": 4
     },
     {
       "year": 2007,
       "constituency": "Reykjavíkurkjördæmi norður",
       "party": "Samfylkingin",
-      "percent": 29.2
+      "percent": 29.2,
+      "seats": 5
     },
     {
       "year": 2007,
       "constituency": "Reykjavíkurkjördæmi norður",
       "party": "Vinstrihreyfingin - grænt framboð",
-      "percent": 16.9
+      "percent": 16.9,
+      "seats": 2
     },
     {
       "year": 2007,
       "constituency": "Reykjavíkurkjördæmi norður",
       "party": "Frjálslyndi flokkurinn",
-      "percent": 6.3
+      "percent": 6.3,
+      "seats": 0
     },
     {
       "year": 2007,
       "constituency": "Reykjavíkurkjördæmi norður",
       "party": "Framsóknarflokkur",
-      "percent": 6.2
+      "percent": 6.2,
+      "seats": 0
     },
     {
       "year": 2007,
       "constituency": "Reykjavíkurkjördæmi norður",
       "party": "Íslandshreyfingin",
-      "percent": 4.9
+      "percent": 4.9,
+      "seats": 0
     },
     {
       "year": 2009,
       "constituency": "Norðvesturkjördæmi",
       "party": "Sjálfstæðisflokkur",
-      "percent": 22.9
+      "percent": 22.9,
+      "seats": 2
     },
     {
       "year": 2009,
       "constituency": "Norðvesturkjördæmi",
       "party": "Vinstrihreyfingin - grænt framboð",
-      "percent": 22.8
+      "percent": 22.8,
+      "seats": 3
     },
     {
       "year": 2009,
       "constituency": "Norðvesturkjördæmi",
       "party": "Samfylkingin",
-      "percent": 22.7
+      "percent": 22.7,
+      "seats": 2
     },
     {
       "year": 2009,
       "constituency": "Norðvesturkjördæmi",
       "party": "Framsóknarflokkur",
-      "percent": 22.5
+      "percent": 22.5,
+      "seats": 2
     },
     {
       "year": 2009,
       "constituency": "Norðvesturkjördæmi",
       "party": "Frjálslyndi flokkurinn",
-      "percent": 5.3
+      "percent": 5.3,
+      "seats": 0
     },
     {
       "year": 2009,
       "constituency": "Norðvesturkjördæmi",
       "party": "Borgarahreyfingin",
-      "percent": 3.3
+      "percent": 3.3,
+      "seats": 0
     },
     {
       "year": 2009,
       "constituency": "Norðvesturkjördæmi",
       "party": "Lýðræðishreyfingin",
-      "percent": 0.4
+      "percent": 0.4,
+      "seats": 0
     },
     {
       "year": 2009,
       "constituency": "Norðausturkjördæmi",
       "party": "Vinstrihreyfingin - grænt framboð",
-      "percent": 29.7
+      "percent": 29.7,
+      "seats": 3
     },
     {
       "year": 2009,
       "constituency": "Norðausturkjördæmi",
       "party": "Framsóknarflokkur",
-      "percent": 25.3
+      "percent": 25.3,
+      "seats": 2
     },
     {
       "year": 2009,
       "constituency": "Norðausturkjördæmi",
       "party": "Samfylkingin",
-      "percent": 22.7
+      "percent": 22.7,
+      "seats": 3
     },
     {
       "year": 2009,
       "constituency": "Norðausturkjördæmi",
       "party": "Sjálfstæðisflokkur",
-      "percent": 17.5
+      "percent": 17.5,
+      "seats": 2
     },
     {
       "year": 2009,
       "constituency": "Norðausturkjördæmi",
       "party": "Borgarahreyfingin",
-      "percent": 3
+      "percent": 3,
+      "seats": 0
     },
     {
       "year": 2009,
       "constituency": "Norðausturkjördæmi",
       "party": "Frjálslyndi flokkurinn",
-      "percent": 1.6
+      "percent": 1.6,
+      "seats": 0
     },
     {
       "year": 2009,
       "constituency": "Norðausturkjördæmi",
       "party": "Lýðræðishreyfingin",
-      "percent": 0.3
+      "percent": 0.3,
+      "seats": 0
     },
     {
       "year": 2009,
       "constituency": "Suðurkjördæmi",
       "party": "Samfylkingin",
-      "percent": 28
+      "percent": 28,
+      "seats": 3
     },
     {
       "year": 2009,
       "constituency": "Suðurkjördæmi",
       "party": "Sjálfstæðisflokkur",
-      "percent": 26.2
+      "percent": 26.2,
+      "seats": 3
     },
     {
       "year": 2009,
       "constituency": "Suðurkjördæmi",
       "party": "Framsóknarflokkur",
-      "percent": 20
+      "percent": 20,
+      "seats": 2
     },
     {
       "year": 2009,
       "constituency": "Suðurkjördæmi",
       "party": "Vinstrihreyfingin - grænt framboð",
-      "percent": 17.1
+      "percent": 17.1,
+      "seats": 1
     },
     {
       "year": 2009,
       "constituency": "Suðurkjördæmi",
       "party": "Borgarahreyfingin",
-      "percent": 5.1
+      "percent": 5.1,
+      "seats": 1
     },
     {
       "year": 2009,
       "constituency": "Suðurkjördæmi",
       "party": "Frjálslyndi flokkurinn",
-      "percent": 3.1
+      "percent": 3.1,
+      "seats": 0
     },
     {
       "year": 2009,
       "constituency": "Suðurkjördæmi",
       "party": "Lýðræðishreyfingin",
-      "percent": 0.5
+      "percent": 0.5,
+      "seats": 0
     },
     {
       "year": 2009,
       "constituency": "Suðvesturkjördæmi",
       "party": "Samfylkingin",
-      "percent": 32.2
+      "percent": 32.2,
+      "seats": 4
     },
     {
       "year": 2009,
       "constituency": "Suðvesturkjördæmi",
       "party": "Sjálfstæðisflokkur",
-      "percent": 27.6
+      "percent": 27.6,
+      "seats": 4
     },
     {
       "year": 2009,
       "constituency": "Suðvesturkjördæmi",
       "party": "Vinstrihreyfingin - grænt framboð",
-      "percent": 17.4
+      "percent": 17.4,
+      "seats": 2
     },
     {
       "year": 2009,
       "constituency": "Suðvesturkjördæmi",
       "party": "Framsóknarflokkur",
-      "percent": 11.6
+      "percent": 11.6,
+      "seats": 1
     },
     {
       "year": 2009,
       "constituency": "Suðvesturkjördæmi",
       "party": "Borgarahreyfingin",
-      "percent": 9.1
+      "percent": 9.1,
+      "seats": 1
     },
     {
       "year": 2009,
       "constituency": "Suðvesturkjördæmi",
       "party": "Frjálslyndi flokkurinn",
-      "percent": 1.5
+      "percent": 1.5,
+      "seats": 0
     },
     {
       "year": 2009,
       "constituency": "Suðvesturkjördæmi",
       "party": "Lýðræðishreyfingin",
-      "percent": 0.6
+      "percent": 0.6,
+      "seats": 0
     },
     {
       "year": 2009,
       "constituency": "Reykjavíkurkjördæmi suður",
       "party": "Samfylkingin",
-      "percent": 32.9
+      "percent": 32.9,
+      "seats": 4
     },
     {
       "year": 2009,
       "constituency": "Reykjavíkurkjördæmi suður",
       "party": "Sjálfstæðisflokkur",
-      "percent": 23.2
+      "percent": 23.2,
+      "seats": 3
     },
     {
       "year": 2009,
       "constituency": "Reykjavíkurkjördæmi suður",
       "party": "Vinstrihreyfingin - grænt framboð",
-      "percent": 22.9
+      "percent": 22.9,
+      "seats": 2
     },
     {
       "year": 2009,
       "constituency": "Reykjavíkurkjördæmi suður",
       "party": "Framsóknarflokkur",
-      "percent": 9.7
+      "percent": 9.7,
+      "seats": 1
     },
     {
       "year": 2009,
       "constituency": "Reykjavíkurkjördæmi suður",
       "party": "Borgarahreyfingin",
-      "percent": 8.7
+      "percent": 8.7,
+      "seats": 1
     },
     {
       "year": 2009,
       "constituency": "Reykjavíkurkjördæmi suður",
       "party": "Frjálslyndi flokkurinn",
-      "percent": 2
+      "percent": 2,
+      "seats": 0
     },
     {
       "year": 2009,
       "constituency": "Reykjavíkurkjördæmi suður",
       "party": "Lýðræðishreyfingin",
-      "percent": 0.6
+      "percent": 0.6,
+      "seats": 0
     },
     {
       "year": 2009,
       "constituency": "Reykjavíkurkjördæmi norður",
       "party": "Samfylkingin",
-      "percent": 32.9
+      "percent": 32.9,
+      "seats": 4
     },
     {
       "year": 2009,
       "constituency": "Reykjavíkurkjördæmi norður",
       "party": "Vinstrihreyfingin - grænt framboð",
-      "percent": 24
+      "percent": 24,
+      "seats": 3
     },
     {
       "year": 2009,
       "constituency": "Reykjavíkurkjördæmi norður",
       "party": "Sjálfstæðisflokkur",
-      "percent": 21.4
+      "percent": 21.4,
+      "seats": 2
     },
     {
       "year": 2009,
       "constituency": "Reykjavíkurkjördæmi norður",
       "party": "Framsóknarflokkur",
-      "percent": 9.6
+      "percent": 9.6,
+      "seats": 1
     },
     {
       "year": 2009,
       "constituency": "Reykjavíkurkjördæmi norður",
       "party": "Borgarahreyfingin",
-      "percent": 9.6
+      "percent": 9.6,
+      "seats": 1
     },
     {
       "year": 2009,
       "constituency": "Reykjavíkurkjördæmi norður",
       "party": "Frjálslyndi flokkurinn",
-      "percent": 1.6
+      "percent": 1.6,
+      "seats": 0
     },
     {
       "year": 2009,
       "constituency": "Reykjavíkurkjördæmi norður",
       "party": "Lýðræðishreyfingin",
-      "percent": 0.9
+      "percent": 0.9,
+      "seats": 0
     },
     {
       "year": 2013,
       "constituency": "Norðvesturkjördæmi",
       "party": "Framsóknarflokkur",
-      "percent": 35.2
+      "percent": 35.2,
+      "seats": 4
     },
     {
       "year": 2013,
       "constituency": "Norðvesturkjördæmi",
       "party": "Sjálfstæðisflokkur",
-      "percent": 24.7
+      "percent": 24.7,
+      "seats": 2
     },
     {
       "year": 2013,
       "constituency": "Norðvesturkjördæmi",
       "party": "Samfylkingin",
-      "percent": 12.2
+      "percent": 12.2,
+      "seats": 1
     },
     {
       "year": 2013,
       "constituency": "Norðvesturkjördæmi",
       "party": "Vinstrihreyfingin - grænt framboð",
-      "percent": 8.5
+      "percent": 8.5,
+      "seats": 1
     },
     {
       "year": 2013,
       "constituency": "Norðvesturkjördæmi",
       "party": "Björt framtíð",
-      "percent": 4.6
+      "percent": 4.6,
+      "seats": null
     },
     {
       "year": 2013,
       "constituency": "Norðvesturkjördæmi",
       "party": "Regnboginn",
-      "percent": 4.5
+      "percent": 4.5,
+      "seats": null
     },
     {
       "year": 2013,
       "constituency": "Norðvesturkjördæmi",
       "party": "Píratar",
-      "percent": 3.1
+      "percent": 3.1,
+      "seats": null
     },
     {
       "year": 2013,
       "constituency": "Norðvesturkjördæmi",
       "party": "Landsbyggðarflokkurinn",
-      "percent": 1.9
+      "percent": 1.9,
+      "seats": null
     },
     {
       "year": 2013,
       "constituency": "Norðvesturkjördæmi",
       "party": "Dögun",
-      "percent": 1.9
+      "percent": 1.9,
+      "seats": null
     },
     {
       "year": 2013,
       "constituency": "Norðausturkjördæmi",
       "party": "Framsóknarflokkur",
-      "percent": 34.6
+      "percent": 34.6,
+      "seats": 4
     },
     {
       "year": 2013,
       "constituency": "Norðausturkjördæmi",
       "party": "Sjálfstæðisflokkur",
-      "percent": 22.6
+      "percent": 22.6,
+      "seats": 2
     },
     {
       "year": 2013,
       "constituency": "Norðausturkjördæmi",
       "party": "Vinstrihreyfingin - grænt framboð",
-      "percent": 15.8
+      "percent": 15.8,
+      "seats": 2
     },
     {
       "year": 2013,
       "constituency": "Norðausturkjördæmi",
       "party": "Samfylkingin",
-      "percent": 10.6
+      "percent": 10.6,
+      "seats": 1
     },
     {
       "year": 2013,
       "constituency": "Norðausturkjördæmi",
       "party": "Björt framtíð",
-      "percent": 6.5
+      "percent": 6.5,
+      "seats": 1
     },
     {
       "year": 2013,
       "constituency": "Norðausturkjördæmi",
       "party": "Píratar",
-      "percent": 3
+      "percent": 3,
+      "seats": null
     },
     {
       "year": 2013,
       "constituency": "Norðausturkjördæmi",
       "party": "Dögun",
-      "percent": 1.9
+      "percent": 1.9,
+      "seats": null
     },
     {
       "year": 2013,
       "constituency": "Norðausturkjördæmi",
       "party": "Hægri grænir",
-      "percent": 1.3
+      "percent": 1.3,
+      "seats": null
     },
     {
       "year": 2013,
       "constituency": "Norðausturkjördæmi",
       "party": "Regnboginn",
-      "percent": 1.3
+      "percent": 1.3,
+      "seats": null
     },
     {
       "year": 2013,
       "constituency": "Suðurkjördæmi",
       "party": "Framsóknarflokkur",
-      "percent": 34.5
+      "percent": 34.5,
+      "seats": 4
     },
     {
       "year": 2013,
       "constituency": "Suðurkjördæmi",
       "party": "Sjálfstæðisflokkur",
-      "percent": 28.3
+      "percent": 28.3,
+      "seats": 4
     },
     {
       "year": 2013,
       "constituency": "Suðurkjördæmi",
       "party": "Samfylkingin",
-      "percent": 10.2
+      "percent": 10.2,
+      "seats": 1
     },
     {
       "year": 2013,
       "constituency": "Suðurkjördæmi",
       "party": "Vinstrihreyfingin - grænt framboð",
-      "percent": 5.9
+      "percent": 5.9,
+      "seats": null
     },
     {
       "year": 2013,
       "constituency": "Suðurkjördæmi",
       "party": "Píratar",
-      "percent": 4.7
+      "percent": 4.7,
+      "seats": null
     },
     {
       "year": 2013,
       "constituency": "Suðurkjördæmi",
       "party": "Björt framtíð",
-      "percent": 4.5
+      "percent": 4.5,
+      "seats": 1
     },
     {
       "year": 2013,
       "constituency": "Suðurkjördæmi",
       "party": "Dögun",
-      "percent": 3.4
+      "percent": 3.4,
+      "seats": null
     },
     {
       "year": 2013,
       "constituency": "Suðurkjördæmi",
       "party": "Flokkur heimilanna",
-      "percent": 2.9
+      "percent": 2.9,
+      "seats": null
     },
     {
       "year": 2013,
       "constituency": "Suðurkjördæmi",
       "party": "Hægri grænir",
-      "percent": 2.6
+      "percent": 2.6,
+      "seats": null
     },
     {
       "year": 2013,
       "constituency": "Suðvesturkjördæmi",
       "party": "Sjálfstæðisflokkur",
-      "percent": 30.7
+      "percent": 30.7,
+      "seats": 5
     },
     {
       "year": 2013,
       "constituency": "Suðvesturkjördæmi",
       "party": "Framsóknarflokkur",
-      "percent": 21.5
+      "percent": 21.5,
+      "seats": 3
     },
     {
       "year": 2013,
       "constituency": "Suðvesturkjördæmi",
       "party": "Samfylkingin",
-      "percent": 13.6
+      "percent": 13.6,
+      "seats": 2
     },
     {
       "year": 2013,
       "constituency": "Suðvesturkjördæmi",
       "party": "Björt framtíð",
-      "percent": 9.2
+      "percent": 9.2,
+      "seats": 1
     },
     {
       "year": 2013,
       "constituency": "Suðvesturkjördæmi",
       "party": "Vinstrihreyfingin - grænt framboð",
-      "percent": 7.9
+      "percent": 7.9,
+      "seats": 1
     },
     {
       "year": 2013,
       "constituency": "Suðvesturkjördæmi",
       "party": "Píratar",
-      "percent": 5
+      "percent": 5,
+      "seats": 1
     },
     {
       "year": 2013,
       "constituency": "Suðvesturkjördæmi",
       "party": "Dögun",
-      "percent": 3.8
+      "percent": 3.8,
+      "seats": null
     },
     {
       "year": 2013,
       "constituency": "Suðvesturkjördæmi",
       "party": "Flokkur heimilanna",
-      "percent": 3.6
+      "percent": 3.6,
+      "seats": null
     },
     {
       "year": 2013,
       "constituency": "Suðvesturkjördæmi",
       "party": "Lýðræðisvaktin",
-      "percent": 2.4
+      "percent": 2.4,
+      "seats": null
     },
     {
       "year": 2013,
       "constituency": "Reykjavíkurkjördæmi suður",
       "party": "Sjálfstæðisflokkur",
-      "percent": 26.8
+      "percent": 26.8,
+      "seats": 3
     },
     {
       "year": 2013,
       "constituency": "Reykjavíkurkjördæmi suður",
       "party": "Framsóknarflokkur",
-      "percent": 16.8
+      "percent": 16.8,
+      "seats": 2
     },
     {
       "year": 2013,
       "constituency": "Reykjavíkurkjördæmi suður",
       "party": "Samfylkingin",
-      "percent": 14.2
+      "percent": 14.2,
+      "seats": 2
     },
     {
       "year": 2013,
       "constituency": "Reykjavíkurkjördæmi suður",
       "party": "Vinstrihreyfingin - grænt framboð",
-      "percent": 12.1
+      "percent": 12.1,
+      "seats": 1
     },
     {
       "year": 2013,
       "constituency": "Reykjavíkurkjördæmi suður",
       "party": "Björt framtíð",
-      "percent": 10.7
+      "percent": 10.7,
+      "seats": 2
     },
     {
       "year": 2013,
       "constituency": "Reykjavíkurkjördæmi suður",
       "party": "Píratar",
-      "percent": 6.2
+      "percent": 6.2,
+      "seats": 1
     },
     {
       "year": 2013,
       "constituency": "Reykjavíkurkjördæmi suður",
       "party": "Flokkur heimilanna",
-      "percent": 3.9
+      "percent": 3.9,
+      "seats": null
     },
     {
       "year": 2013,
       "constituency": "Reykjavíkurkjördæmi suður",
       "party": "Dögun",
-      "percent": 3.3
+      "percent": 3.3,
+      "seats": null
     },
     {
       "year": 2013,
       "constituency": "Reykjavíkurkjördæmi suður",
       "party": "Lýðræðisvaktin",
-      "percent": 2.9
+      "percent": 2.9,
+      "seats": null
     },
     {
       "year": 2013,
       "constituency": "Reykjavíkurkjördæmi norður",
       "party": "Sjálfstæðisflokkur",
-      "percent": 23.4
+      "percent": 23.4,
+      "seats": 3
     },
     {
       "year": 2013,
       "constituency": "Reykjavíkurkjördæmi norður",
       "party": "Framsóknarflokkur",
-      "percent": 16.4
+      "percent": 16.4,
+      "seats": 2
     },
     {
       "year": 2013,
       "constituency": "Reykjavíkurkjördæmi norður",
       "party": "Vinstrihreyfingin - grænt framboð",
-      "percent": 15.7
+      "percent": 15.7,
+      "seats": 2
     },
     {
       "year": 2013,
       "constituency": "Reykjavíkurkjördæmi norður",
       "party": "Samfylkingin",
-      "percent": 14.3
+      "percent": 14.3,
+      "seats": 2
     },
     {
       "year": 2013,
       "constituency": "Reykjavíkurkjördæmi norður",
       "party": "Björt framtíð",
-      "percent": 10.2
+      "percent": 10.2,
+      "seats": 1
     },
     {
       "year": 2013,
       "constituency": "Reykjavíkurkjördæmi norður",
       "party": "Píratar",
-      "percent": 6.9
+      "percent": 6.9,
+      "seats": 1
     },
     {
       "year": 2013,
       "constituency": "Reykjavíkurkjördæmi norður",
       "party": "Lýðræðisvaktin",
-      "percent": 4
+      "percent": 4,
+      "seats": null
     },
     {
       "year": 2013,
       "constituency": "Reykjavíkurkjördæmi norður",
       "party": "Flokkur heimilanna",
-      "percent": 3.7
+      "percent": 3.7,
+      "seats": null
     },
     {
       "year": 2013,
       "constituency": "Reykjavíkurkjördæmi norður",
       "party": "Dögun",
-      "percent": 3.1
+      "percent": 3.1,
+      "seats": null
     },
     {
       "year": 2016,
       "constituency": "Norðvesturkjördæmi",
       "party": "Sjálfstæðisflokkur",
-      "percent": 29.5
+      "percent": 29.5,
+      "seats": 3
     },
     {
       "year": 2016,
       "constituency": "Norðvesturkjördæmi",
       "party": "Framsóknarflokkur",
-      "percent": 20.8
+      "percent": 20.8,
+      "seats": 2
     },
     {
       "year": 2016,
       "constituency": "Norðvesturkjördæmi",
       "party": "Vinstrihreyfingin - grænt framboð",
-      "percent": 18.1
+      "percent": 18.1,
+      "seats": 1
     },
     {
       "year": 2016,
       "constituency": "Norðvesturkjördæmi",
       "party": "Píratar",
-      "percent": 10.9
+      "percent": 10.9,
+      "seats": 1
     },
     {
       "year": 2016,
       "constituency": "Norðvesturkjördæmi",
       "party": "Samfylkingin",
-      "percent": 6.3
+      "percent": 6.3,
+      "seats": 1
     },
     {
       "year": 2016,
       "constituency": "Norðvesturkjördæmi",
       "party": "Viðreisn",
-      "percent": 6.2
+      "percent": 6.2,
+      "seats": 0
     },
     {
       "year": 2016,
       "constituency": "Norðvesturkjördæmi",
       "party": "Björt framtíð",
-      "percent": 3.5
+      "percent": 3.5,
+      "seats": 0
     },
     {
       "year": 2016,
       "constituency": "Norðvesturkjördæmi",
       "party": "Flokkur fólksins",
-      "percent": 2.5
+      "percent": 2.5,
+      "seats": 0
     },
     {
       "year": 2016,
       "constituency": "Norðvesturkjördæmi",
       "party": "Dögun",
-      "percent": 1.7
+      "percent": 1.7,
+      "seats": 0
     },
     {
       "year": 2016,
       "constituency": "Norðausturkjördæmi",
       "party": "Sjálfstæðisflokkur",
-      "percent": 26.5
+      "percent": 26.5,
+      "seats": 3
     },
     {
       "year": 2016,
       "constituency": "Norðausturkjördæmi",
       "party": "Framsóknarflokkur",
-      "percent": 20
+      "percent": 20,
+      "seats": 2
     },
     {
       "year": 2016,
       "constituency": "Norðausturkjördæmi",
       "party": "Vinstrihreyfingin - grænt framboð",
-      "percent": 20
+      "percent": 20,
+      "seats": 2
     },
     {
       "year": 2016,
       "constituency": "Norðausturkjördæmi",
       "party": "Píratar",
-      "percent": 10
+      "percent": 10,
+      "seats": 1
     },
     {
       "year": 2016,
       "constituency": "Norðausturkjördæmi",
       "party": "Samfylkingin",
-      "percent": 8
+      "percent": 8,
+      "seats": 1
     },
     {
       "year": 2016,
       "constituency": "Norðausturkjördæmi",
       "party": "Viðreisn",
-      "percent": 6.5
+      "percent": 6.5,
+      "seats": 1
     },
     {
       "year": 2016,
       "constituency": "Norðausturkjördæmi",
       "party": "Björt framtíð",
-      "percent": 3.4
+      "percent": 3.4,
+      "seats": 0
     },
     {
       "year": 2016,
       "constituency": "Norðausturkjördæmi",
       "party": "Flokkur fólksins",
-      "percent": 2.8
+      "percent": 2.8,
+      "seats": 0
     },
     {
       "year": 2016,
       "constituency": "Norðausturkjördæmi",
       "party": "Dögun",
-      "percent": 1.8
+      "percent": 1.8,
+      "seats": 0
     },
     {
       "year": 2016,
       "constituency": "Suðurkjördæmi",
       "party": "Sjálfstæðisflokkur",
-      "percent": 31.5
+      "percent": 31.5,
+      "seats": 4
     },
     {
       "year": 2016,
       "constituency": "Suðurkjördæmi",
       "party": "Framsóknarflokkur",
-      "percent": 19.1
+      "percent": 19.1,
+      "seats": 2
     },
     {
       "year": 2016,
       "constituency": "Suðurkjördæmi",
       "party": "Píratar",
-      "percent": 12.8
+      "percent": 12.8,
+      "seats": 1
     },
     {
       "year": 2016,
       "constituency": "Suðurkjördæmi",
       "party": "Vinstrihreyfingin - grænt framboð",
-      "percent": 10.2
+      "percent": 10.2,
+      "seats": 1
     },
     {
       "year": 2016,
       "constituency": "Suðurkjördæmi",
       "party": "Viðreisn",
-      "percent": 7.3
+      "percent": 7.3,
+      "seats": 1
     },
     {
       "year": 2016,
       "constituency": "Suðurkjördæmi",
       "party": "Samfylkingin",
-      "percent": 6.4
+      "percent": 6.4,
+      "seats": 1
     },
     {
       "year": 2016,
       "constituency": "Suðurkjördæmi",
       "party": "Björt framtíð",
-      "percent": 5.8
+      "percent": 5.8,
+      "seats": 0
     },
     {
       "year": 2016,
       "constituency": "Suðurkjördæmi",
       "party": "Flokkur fólksins",
-      "percent": 3.6
+      "percent": 3.6,
+      "seats": 0
     },
     {
       "year": 2016,
       "constituency": "Suðurkjördæmi",
       "party": "Dögun",
-      "percent": 2.3
+      "percent": 2.3,
+      "seats": 0
     },
     {
       "year": 2016,
       "constituency": "Suðvesturkjördæmi",
       "party": "Sjálfstæðisflokkur",
-      "percent": 33.9
+      "percent": 33.9,
+      "seats": 5
     },
     {
       "year": 2016,
       "constituency": "Suðvesturkjördæmi",
       "party": "Píratar",
-      "percent": 13.6
+      "percent": 13.6,
+      "seats": 2
     },
     {
       "year": 2016,
       "constituency": "Suðvesturkjördæmi",
       "party": "Viðreisn",
-      "percent": 12.9
+      "percent": 12.9,
+      "seats": 2
     },
     {
       "year": 2016,
       "constituency": "Suðvesturkjördæmi",
       "party": "Vinstrihreyfingin - grænt framboð",
-      "percent": 12
+      "percent": 12,
+      "seats": 1
     },
     {
       "year": 2016,
       "constituency": "Suðvesturkjördæmi",
       "party": "Björt framtíð",
-      "percent": 10.2
+      "percent": 10.2,
+      "seats": 2
     },
     {
       "year": 2016,
       "constituency": "Suðvesturkjördæmi",
       "party": "Framsóknarflokkur",
-      "percent": 7.6
+      "percent": 7.6,
+      "seats": 1
     },
     {
       "year": 2016,
       "constituency": "Suðvesturkjördæmi",
       "party": "Samfylkingin",
-      "percent": 4.8
+      "percent": 4.8,
+      "seats": 0
     },
     {
       "year": 2016,
       "constituency": "Suðvesturkjördæmi",
       "party": "Flokkur fólksins",
-      "percent": 3.3
+      "percent": 3.3,
+      "seats": 0
     },
     {
       "year": 2016,
       "constituency": "Suðvesturkjördæmi",
       "party": "Dögun",
-      "percent": 1.7
+      "percent": 1.7,
+      "seats": 0
     },
     {
       "year": 2016,
       "constituency": "Reykjavíkurkjördæmi suður",
       "party": "Sjálfstæðisflokkur",
-      "percent": 25.6
+      "percent": 25.6,
+      "seats": 3
     },
     {
       "year": 2016,
       "constituency": "Reykjavíkurkjördæmi suður",
       "party": "Vinstrihreyfingin - grænt framboð",
-      "percent": 17.6
+      "percent": 17.6,
+      "seats": 2
     },
     {
       "year": 2016,
       "constituency": "Reykjavíkurkjördæmi suður",
       "party": "Píratar",
-      "percent": 17.3
+      "percent": 17.3,
+      "seats": 2
     },
     {
       "year": 2016,
       "constituency": "Reykjavíkurkjördæmi suður",
       "party": "Viðreisn",
-      "percent": 12.7
+      "percent": 12.7,
+      "seats": 2
     },
     {
       "year": 2016,
       "constituency": "Reykjavíkurkjördæmi suður",
       "party": "Framsóknarflokkur",
-      "percent": 7.4
+      "percent": 7.4,
+      "seats": 1
     },
     {
       "year": 2016,
       "constituency": "Reykjavíkurkjördæmi suður",
       "party": "Björt framtíð",
-      "percent": 7.2
+      "percent": 7.2,
+      "seats": 1
     },
     {
       "year": 2016,
       "constituency": "Reykjavíkurkjördæmi suður",
       "party": "Samfylkingin",
-      "percent": 5.6
+      "percent": 5.6,
+      "seats": 0
     },
     {
       "year": 2016,
       "constituency": "Reykjavíkurkjördæmi suður",
       "party": "Flokkur fólksins",
-      "percent": 4.6
+      "percent": 4.6,
+      "seats": 0
     },
     {
       "year": 2016,
       "constituency": "Reykjavíkurkjördæmi suður",
       "party": "Dögun",
-      "percent": 1.7
+      "percent": 1.7,
+      "seats": 0
     },
     {
       "year": 2016,
       "constituency": "Reykjavíkurkjördæmi norður",
       "party": "Sjálfstæðisflokkur",
-      "percent": 24.4
+      "percent": 24.4,
+      "seats": 3
     },
     {
       "year": 2016,
       "constituency": "Reykjavíkurkjördæmi norður",
       "party": "Vinstrihreyfingin - grænt framboð",
-      "percent": 20.9
+      "percent": 20.9,
+      "seats": 3
     },
     {
       "year": 2016,
       "constituency": "Reykjavíkurkjördæmi norður",
       "party": "Píratar",
-      "percent": 19
+      "percent": 19,
+      "seats": 3
     },
     {
       "year": 2016,
       "constituency": "Reykjavíkurkjördæmi norður",
       "party": "Viðreisn",
-      "percent": 11.6
+      "percent": 11.6,
+      "seats": 1
     },
     {
       "year": 2016,
       "constituency": "Reykjavíkurkjördæmi norður",
       "party": "Björt framtíð",
-      "percent": 7.6
+      "percent": 7.6,
+      "seats": 1
     },
     {
       "year": 2016,
       "constituency": "Reykjavíkurkjördæmi norður",
       "party": "Framsóknarflokkur",
-      "percent": 5.7
+      "percent": 5.7,
+      "seats": 0
     },
     {
       "year": 2016,
       "constituency": "Reykjavíkurkjördæmi norður",
       "party": "Samfylkingin",
-      "percent": 5.2
+      "percent": 5.2,
+      "seats": 0
     },
     {
       "year": 2016,
       "constituency": "Reykjavíkurkjördæmi norður",
       "party": "Flokkur fólksins",
-      "percent": 3.8
+      "percent": 3.8,
+      "seats": 0
     },
     {
       "year": 2016,
       "constituency": "Reykjavíkurkjördæmi norður",
       "party": "Dögun",
-      "percent": 1.4
+      "percent": 1.4,
+      "seats": 0
     },
     {
       "year": 2017,
       "constituency": "Norðvesturkjördæmi",
       "party": "Sjálfstæðisflokkur",
-      "percent": 24.5
+      "percent": 24.5,
+      "seats": 2
     },
     {
       "year": 2017,
       "constituency": "Norðvesturkjördæmi",
       "party": "Framsóknarflokkur",
-      "percent": 18.4
+      "percent": 18.4,
+      "seats": 2
     },
     {
       "year": 2017,
       "constituency": "Norðvesturkjördæmi",
       "party": "Vinstrihreyfingin - grænt framboð",
-      "percent": 17.8
+      "percent": 17.8,
+      "seats": 1
     },
     {
       "year": 2017,
       "constituency": "Norðvesturkjördæmi",
       "party": "Miðflokkurinn",
-      "percent": 14.2
+      "percent": 14.2,
+      "seats": 2
     },
     {
       "year": 2017,
       "constituency": "Norðvesturkjördæmi",
       "party": "Samfylkingin",
-      "percent": 9.7
+      "percent": 9.7,
+      "seats": 1
     },
     {
       "year": 2017,
       "constituency": "Norðvesturkjördæmi",
       "party": "Píratar",
-      "percent": 6.8
+      "percent": 6.8,
+      "seats": 0
     },
     {
       "year": 2017,
       "constituency": "Norðvesturkjördæmi",
       "party": "Flokkur fólksins",
-      "percent": 5.3
+      "percent": 5.3,
+      "seats": 0
     },
     {
       "year": 2017,
       "constituency": "Norðvesturkjördæmi",
       "party": "Viðreisn",
-      "percent": 2.5
+      "percent": 2.5,
+      "seats": 0
     },
     {
       "year": 2017,
       "constituency": "Norðvesturkjördæmi",
       "party": "Björt framtíð",
-      "percent": 0.8
+      "percent": 0.8,
+      "seats": 0
     },
     {
       "year": 2017,
       "constituency": "Norðausturkjördæmi",
       "party": "Sjálfstæðisflokkur",
-      "percent": 20.3
+      "percent": 20.3,
+      "seats": 2
     },
     {
       "year": 2017,
       "constituency": "Norðausturkjördæmi",
       "party": "Vinstrihreyfingin - grænt framboð",
-      "percent": 19.9
+      "percent": 19.9,
+      "seats": 2
     },
     {
       "year": 2017,
       "constituency": "Norðausturkjördæmi",
       "party": "Miðflokkurinn",
-      "percent": 18.6
+      "percent": 18.6,
+      "seats": 2
     },
     {
       "year": 2017,
       "constituency": "Norðausturkjördæmi",
       "party": "Framsóknarflokkur",
-      "percent": 14.3
+      "percent": 14.3,
+      "seats": 2
     },
     {
       "year": 2017,
       "constituency": "Norðausturkjördæmi",
       "party": "Samfylkingin",
-      "percent": 13.9
+      "percent": 13.9,
+      "seats": 2
     },
     {
       "year": 2017,
       "constituency": "Norðausturkjördæmi",
       "party": "Píratar",
-      "percent": 5.5
+      "percent": 5.5,
+      "seats": 0
     },
     {
       "year": 2017,
       "constituency": "Norðausturkjördæmi",
       "party": "Flokkur fólksins",
-      "percent": 4.3
+      "percent": 4.3,
+      "seats": 0
     },
     {
       "year": 2017,
       "constituency": "Norðausturkjördæmi",
       "party": "Viðreisn",
-      "percent": 2.1
+      "percent": 2.1,
+      "seats": 0
     },
     {
       "year": 2017,
       "constituency": "Norðausturkjördæmi",
       "party": "Björt framtíð",
-      "percent": 0.7
+      "percent": 0.7,
+      "seats": 0
     },
     {
       "year": 2017,
       "constituency": "Suðurkjördæmi",
       "party": "Sjálfstæðisflokkur",
-      "percent": 25.2
+      "percent": 25.2,
+      "seats": 3
     },
     {
       "year": 2017,
       "constituency": "Suðurkjördæmi",
       "party": "Framsóknarflokkur",
-      "percent": 18.6
+      "percent": 18.6,
+      "seats": 2
     },
     {
       "year": 2017,
       "constituency": "Suðurkjördæmi",
       "party": "Miðflokkurinn",
-      "percent": 14.3
+      "percent": 14.3,
+      "seats": 1
     },
     {
       "year": 2017,
       "constituency": "Suðurkjördæmi",
       "party": "Vinstrihreyfingin - grænt framboð",
-      "percent": 11.8
+      "percent": 11.8,
+      "seats": 1
     },
     {
       "year": 2017,
       "constituency": "Suðurkjördæmi",
       "party": "Samfylkingin",
-      "percent": 9.6
+      "percent": 9.6,
+      "seats": 1
     },
     {
       "year": 2017,
       "constituency": "Suðurkjördæmi",
       "party": "Flokkur fólksins",
-      "percent": 8.9
+      "percent": 8.9,
+      "seats": 1
     },
     {
       "year": 2017,
       "constituency": "Suðurkjördæmi",
       "party": "Píratar",
-      "percent": 7.1
+      "percent": 7.1,
+      "seats": 1
     },
     {
       "year": 2017,
       "constituency": "Suðurkjördæmi",
       "party": "Viðreisn",
-      "percent": 3.1
+      "percent": 3.1,
+      "seats": 0
     },
     {
       "year": 2017,
       "constituency": "Suðurkjördæmi",
       "party": "Björt framtíð",
-      "percent": 1
+      "percent": 1,
+      "seats": 0
     },
     {
       "year": 2017,
       "constituency": "Suðvesturkjördæmi",
       "party": "Sjálfstæðisflokkur",
-      "percent": 30.9
+      "percent": 30.9,
+      "seats": 4
     },
     {
       "year": 2017,
       "constituency": "Suðvesturkjördæmi",
       "party": "Vinstrihreyfingin - grænt framboð",
-      "percent": 13.6
+      "percent": 13.6,
+      "seats": 2
     },
     {
       "year": 2017,
       "constituency": "Suðvesturkjördæmi",
       "party": "Samfylkingin",
-      "percent": 12.1
+      "percent": 12.1,
+      "seats": 1
     },
     {
       "year": 2017,
       "constituency": "Suðvesturkjördæmi",
       "party": "Viðreisn",
-      "percent": 9.5
+      "percent": 9.5,
+      "seats": 2
     },
     {
       "year": 2017,
       "constituency": "Suðvesturkjördæmi",
       "party": "Miðflokkurinn",
-      "percent": 9.5
+      "percent": 9.5,
+      "seats": 1
     },
     {
       "year": 2017,
       "constituency": "Suðvesturkjördæmi",
       "party": "Píratar",
-      "percent": 8.3
+      "percent": 8.3,
+      "seats": 1
     },
     {
       "year": 2017,
       "constituency": "Suðvesturkjördæmi",
       "party": "Framsóknarflokkur",
-      "percent": 7.9
+      "percent": 7.9,
+      "seats": 1
     },
     {
       "year": 2017,
       "constituency": "Suðvesturkjördæmi",
       "party": "Flokkur fólksins",
-      "percent": 6.5
+      "percent": 6.5,
+      "seats": 1
     },
     {
       "year": 2017,
       "constituency": "Suðvesturkjördæmi",
       "party": "Björt framtíð",
-      "percent": 1.5
+      "percent": 1.5,
+      "seats": 0
     },
     {
       "year": 2017,
       "constituency": "Reykjavíkurkjördæmi suður",
       "party": "Sjálfstæðisflokkur",
-      "percent": 22.8
+      "percent": 22.8,
+      "seats": 2
     },
     {
       "year": 2017,
       "constituency": "Reykjavíkurkjördæmi suður",
       "party": "Vinstrihreyfingin - grænt framboð",
-      "percent": 18.9
+      "percent": 18.9,
+      "seats": 2
     },
     {
       "year": 2017,
       "constituency": "Reykjavíkurkjördæmi suður",
       "party": "Samfylkingin",
-      "percent": 13
+      "percent": 13,
+      "seats": 1
     },
     {
       "year": 2017,
       "constituency": "Reykjavíkurkjördæmi suður",
       "party": "Píratar",
-      "percent": 11.4
+      "percent": 11.4,
+      "seats": 2
     },
     {
       "year": 2017,
       "constituency": "Reykjavíkurkjördæmi suður",
       "party": "Viðreisn",
-      "percent": 8.5
+      "percent": 8.5,
+      "seats": 1
     },
     {
       "year": 2017,
       "constituency": "Reykjavíkurkjördæmi suður",
       "party": "Flokkur fólksins",
-      "percent": 8.2
+      "percent": 8.2,
+      "seats": 1
     },
     {
       "year": 2017,
       "constituency": "Reykjavíkurkjördæmi suður",
       "party": "Framsóknarflokkur",
-      "percent": 8.1
+      "percent": 8.1,
+      "seats": 1
     },
     {
       "year": 2017,
       "constituency": "Reykjavíkurkjördæmi suður",
       "party": "Miðflokkurinn",
-      "percent": 7.6
+      "percent": 7.6,
+      "seats": 1
     },
     {
       "year": 2017,
       "constituency": "Reykjavíkurkjördæmi suður",
       "party": "Björt framtíð",
-      "percent": 1.3
+      "percent": 1.3,
+      "seats": 0
     },
     {
       "year": 2017,
       "constituency": "Reykjavíkurkjördæmi norður",
       "party": "Sjálfstæðisflokkur",
-      "percent": 22.6
+      "percent": 22.6,
+      "seats": 3
     },
     {
       "year": 2017,
       "constituency": "Reykjavíkurkjördæmi norður",
       "party": "Vinstrihreyfingin - grænt framboð",
-      "percent": 21.5
+      "percent": 21.5,
+      "seats": 3
     },
     {
       "year": 2017,
       "constituency": "Reykjavíkurkjördæmi norður",
       "party": "Píratar",
-      "percent": 13.6
+      "percent": 13.6,
+      "seats": 2
     },
     {
       "year": 2017,
       "constituency": "Reykjavíkurkjördæmi norður",
       "party": "Samfylkingin",
-      "percent": 12.8
+      "percent": 12.8,
+      "seats": 1
     },
     {
       "year": 2017,
       "constituency": "Reykjavíkurkjördæmi norður",
       "party": "Viðreisn",
-      "percent": 8.4
+      "percent": 8.4,
+      "seats": 1
     },
     {
       "year": 2017,
       "constituency": "Reykjavíkurkjördæmi norður",
       "party": "Flokkur fólksins",
-      "percent": 7.1
+      "percent": 7.1,
+      "seats": 1
     },
     {
       "year": 2017,
       "constituency": "Reykjavíkurkjördæmi norður",
       "party": "Miðflokkurinn",
-      "percent": 7
+      "percent": 7,
+      "seats": 0
     },
     {
       "year": 2017,
       "constituency": "Reykjavíkurkjördæmi norður",
       "party": "Framsóknarflokkur",
-      "percent": 5.3
+      "percent": 5.3,
+      "seats": 0
     },
     {
       "year": 2017,
       "constituency": "Reykjavíkurkjördæmi norður",
       "party": "Björt framtíð",
-      "percent": 1.4
+      "percent": 1.4,
+      "seats": 0
     },
     {
       "year": 2021,
       "constituency": "Norðvesturkjördæmi",
       "party": "Framsóknarflokkur",
-      "percent": 25.8
+      "percent": 25.8,
+      "seats": 3
     },
     {
       "year": 2021,
       "constituency": "Norðvesturkjördæmi",
       "party": "Sjálfstæðisflokkur",
-      "percent": 22.6
+      "percent": 22.6,
+      "seats": 2
     },
     {
       "year": 2021,
       "constituency": "Norðvesturkjördæmi",
       "party": "Vinstrihreyfingin - grænt framboð",
-      "percent": 11.5
+      "percent": 11.5,
+      "seats": 1
     },
     {
       "year": 2021,
       "constituency": "Norðvesturkjördæmi",
       "party": "Flokkur fólksins",
-      "percent": 8.8
+      "percent": 8.8,
+      "seats": 1
     },
     {
       "year": 2021,
       "constituency": "Norðvesturkjördæmi",
       "party": "Miðflokkurinn",
-      "percent": 7.4
+      "percent": 7.4,
+      "seats": 1
     },
     {
       "year": 2021,
       "constituency": "Norðvesturkjördæmi",
       "party": "Samfylkingin",
-      "percent": 6.9
+      "percent": 6.9,
+      "seats": 0
     },
     {
       "year": 2021,
       "constituency": "Norðvesturkjördæmi",
       "party": "Píratar",
-      "percent": 6.3
+      "percent": 6.3,
+      "seats": 0
     },
     {
       "year": 2021,
       "constituency": "Norðvesturkjördæmi",
       "party": "Viðreisn",
-      "percent": 6.2
+      "percent": 6.2,
+      "seats": 0
     },
     {
       "year": 2021,
       "constituency": "Norðvesturkjördæmi",
       "party": "Sósíalistaflokkur Íslands",
-      "percent": 4.2
+      "percent": 4.2,
+      "seats": 0
     },
     {
       "year": 2021,
       "constituency": "Norðausturkjördæmi",
       "party": "Framsóknarflokkur",
-      "percent": 25.6
+      "percent": 25.6,
+      "seats": 3
     },
     {
       "year": 2021,
       "constituency": "Norðausturkjördæmi",
       "party": "Sjálfstæðisflokkur",
-      "percent": 18.5
+      "percent": 18.5,
+      "seats": 2
     },
     {
       "year": 2021,
       "constituency": "Norðausturkjördæmi",
       "party": "Vinstrihreyfingin - grænt framboð",
-      "percent": 12.9
+      "percent": 12.9,
+      "seats": 2
     },
     {
       "year": 2021,
       "constituency": "Norðausturkjördæmi",
       "party": "Samfylkingin",
-      "percent": 10.5
+      "percent": 10.5,
+      "seats": 1
     },
     {
       "year": 2021,
       "constituency": "Norðausturkjördæmi",
       "party": "Miðflokkurinn",
-      "percent": 8.9
+      "percent": 8.9,
+      "seats": 1
     },
     {
       "year": 2021,
       "constituency": "Norðausturkjördæmi",
       "party": "Flokkur fólksins",
-      "percent": 8.6
+      "percent": 8.6,
+      "seats": 1
     },
     {
       "year": 2021,
       "constituency": "Norðausturkjördæmi",
       "party": "Viðreisn",
-      "percent": 5.4
+      "percent": 5.4,
+      "seats": 0
     },
     {
       "year": 2021,
       "constituency": "Norðausturkjördæmi",
       "party": "Píratar",
-      "percent": 5.3
+      "percent": 5.3,
+      "seats": 0
     },
     {
       "year": 2021,
       "constituency": "Norðausturkjördæmi",
       "party": "Sósíalistaflokkur Íslands",
-      "percent": 4.1
+      "percent": 4.1,
+      "seats": 0
     },
     {
       "year": 2021,
       "constituency": "Suðurkjördæmi",
       "party": "Sjálfstæðisflokkur",
-      "percent": 24.6
+      "percent": 24.6,
+      "seats": 3
     },
     {
       "year": 2021,
       "constituency": "Suðurkjördæmi",
       "party": "Framsóknarflokkur",
-      "percent": 23.9
+      "percent": 23.9,
+      "seats": 3
     },
     {
       "year": 2021,
       "constituency": "Suðurkjördæmi",
       "party": "Flokkur fólksins",
-      "percent": 12.9
+      "percent": 12.9,
+      "seats": 1
     },
     {
       "year": 2021,
       "constituency": "Suðurkjördæmi",
       "party": "Samfylkingin",
-      "percent": 7.6
+      "percent": 7.6,
+      "seats": 0
     },
     {
       "year": 2021,
       "constituency": "Suðurkjördæmi",
       "party": "Miðflokkurinn",
-      "percent": 7.4
+      "percent": 7.4,
+      "seats": 1
     },
     {
       "year": 2021,
       "constituency": "Suðurkjördæmi",
       "party": "Vinstrihreyfingin - grænt framboð",
-      "percent": 7.4
+      "percent": 7.4,
+      "seats": 1
     },
     {
       "year": 2021,
       "constituency": "Suðurkjördæmi",
       "party": "Viðreisn",
-      "percent": 6.2
+      "percent": 6.2,
+      "seats": 1
     },
     {
       "year": 2021,
       "constituency": "Suðurkjördæmi",
       "party": "Píratar",
-      "percent": 5.6
+      "percent": 5.6,
+      "seats": 0
     },
     {
       "year": 2021,
       "constituency": "Suðurkjördæmi",
       "party": "Sósíalistaflokkur Íslands",
-      "percent": 3.7
+      "percent": 3.7,
+      "seats": 0
     },
     {
       "year": 2021,
       "constituency": "Suðvesturkjördæmi",
       "party": "Sjálfstæðisflokkur",
-      "percent": 30.3
+      "percent": 30.3,
+      "seats": 4
     },
     {
       "year": 2021,
       "constituency": "Suðvesturkjördæmi",
       "party": "Framsóknarflokkur",
-      "percent": 14.5
+      "percent": 14.5,
+      "seats": 2
     },
     {
       "year": 2021,
       "constituency": "Suðvesturkjördæmi",
       "party": "Vinstrihreyfingin - grænt framboð",
-      "percent": 12.1
+      "percent": 12.1,
+      "seats": 1
     },
     {
       "year": 2021,
       "constituency": "Suðvesturkjördæmi",
       "party": "Viðreisn",
-      "percent": 11.4
+      "percent": 11.4,
+      "seats": 2
     },
     {
       "year": 2021,
       "constituency": "Suðvesturkjördæmi",
       "party": "Píratar",
-      "percent": 8.3
+      "percent": 8.3,
+      "seats": 2
     },
     {
       "year": 2021,
       "constituency": "Suðvesturkjördæmi",
       "party": "Samfylkingin",
-      "percent": 8.1
+      "percent": 8.1,
+      "seats": 1
     },
     {
       "year": 2021,
       "constituency": "Suðvesturkjördæmi",
       "party": "Flokkur fólksins",
-      "percent": 7.6
+      "percent": 7.6,
+      "seats": 1
     },
     {
       "year": 2021,
       "constituency": "Suðvesturkjördæmi",
       "party": "Miðflokkurinn",
-      "percent": 4.5
+      "percent": 4.5,
+      "seats": 0
     },
     {
       "year": 2021,
       "constituency": "Suðvesturkjördæmi",
       "party": "Sósíalistaflokkur Íslands",
-      "percent": 3
+      "percent": 3,
+      "seats": 0
     },
     {
       "year": 2021,
       "constituency": "Reykjavíkurkjördæmi suður",
       "party": "Sjálfstæðisflokkur",
-      "percent": 22.8
+      "percent": 22.8,
+      "seats": 3
     },
     {
       "year": 2021,
       "constituency": "Reykjavíkurkjördæmi suður",
       "party": "Vinstrihreyfingin - grænt framboð",
-      "percent": 14.7
+      "percent": 14.7,
+      "seats": 1
     },
     {
       "year": 2021,
       "constituency": "Reykjavíkurkjördæmi suður",
       "party": "Samfylkingin",
-      "percent": 13.3
+      "percent": 13.3,
+      "seats": 2
     },
     {
       "year": 2021,
       "constituency": "Reykjavíkurkjördæmi suður",
       "party": "Framsóknarflokkur",
-      "percent": 11.5
+      "percent": 11.5,
+      "seats": 1
     },
     {
       "year": 2021,
       "constituency": "Reykjavíkurkjördæmi suður",
       "party": "Píratar",
-      "percent": 10.9
+      "percent": 10.9,
+      "seats": 2
     },
     {
       "year": 2021,
       "constituency": "Reykjavíkurkjördæmi suður",
       "party": "Flokkur fólksins",
-      "percent": 8.9
+      "percent": 8.9,
+      "seats": 1
     },
     {
       "year": 2021,
       "constituency": "Reykjavíkurkjördæmi suður",
       "party": "Viðreisn",
-      "percent": 8.6
+      "percent": 8.6,
+      "seats": 1
     },
     {
       "year": 2021,
       "constituency": "Reykjavíkurkjördæmi suður",
       "party": "Sósíalistaflokkur Íslands",
-      "percent": 4.8
+      "percent": 4.8,
+      "seats": 0
     },
     {
       "year": 2021,
       "constituency": "Reykjavíkurkjördæmi suður",
       "party": "Miðflokkurinn",
-      "percent": 4.1
+      "percent": 4.1,
+      "seats": 0
     },
     {
       "year": 2021,
       "constituency": "Reykjavíkurkjördæmi norður",
       "party": "Sjálfstæðisflokkur",
-      "percent": 20.9
+      "percent": 20.9,
+      "seats": 2
     },
     {
       "year": 2021,
       "constituency": "Reykjavíkurkjördæmi norður",
       "party": "Vinstrihreyfingin - grænt framboð",
-      "percent": 15.9
+      "percent": 15.9,
+      "seats": 2
     },
     {
       "year": 2021,
       "constituency": "Reykjavíkurkjördæmi norður",
       "party": "Píratar",
-      "percent": 12.8
+      "percent": 12.8,
+      "seats": 2
     },
     {
       "year": 2021,
       "constituency": "Reykjavíkurkjördæmi norður",
       "party": "Samfylkingin",
-      "percent": 12.6
+      "percent": 12.6,
+      "seats": 2
     },
     {
       "year": 2021,
       "constituency": "Reykjavíkurkjördæmi norður",
       "party": "Framsóknarflokkur",
-      "percent": 12.3
+      "percent": 12.3,
+      "seats": 1
     },
     {
       "year": 2021,
       "constituency": "Reykjavíkurkjördæmi norður",
       "party": "Viðreisn",
-      "percent": 7.7
+      "percent": 7.7,
+      "seats": 1
     },
     {
       "year": 2021,
       "constituency": "Reykjavíkurkjördæmi norður",
       "party": "Flokkur fólksins",
-      "percent": 7.7
+      "percent": 7.7,
+      "seats": 1
     },
     {
       "year": 2021,
       "constituency": "Reykjavíkurkjördæmi norður",
       "party": "Sósíalistaflokkur Íslands",
-      "percent": 5.6
+      "percent": 5.6,
+      "seats": 0
     },
     {
       "year": 2021,
       "constituency": "Reykjavíkurkjördæmi norður",
       "party": "Miðflokkurinn",
-      "percent": 3.5
+      "percent": 3.5,
+      "seats": 0
     },
     {
       "year": 2024,
       "constituency": "Norðvesturkjördæmi",
       "party": "Sjálfstæðisflokkur",
-      "percent": 18
+      "percent": 18,
+      "seats": 1
     },
     {
       "year": 2024,
       "constituency": "Norðvesturkjördæmi",
       "party": "Flokkur fólksins",
-      "percent": 16.7
+      "percent": 16.7,
+      "seats": 2
     },
     {
       "year": 2024,
       "constituency": "Norðvesturkjördæmi",
       "party": "Samfylkingin",
-      "percent": 15.9
+      "percent": 15.9,
+      "seats": 1
     },
     {
       "year": 2024,
       "constituency": "Norðvesturkjördæmi",
       "party": "Miðflokkurinn",
-      "percent": 14.8
+      "percent": 14.8,
+      "seats": 1
     },
     {
       "year": 2024,
       "constituency": "Norðvesturkjördæmi",
       "party": "Framsóknarflokkur",
-      "percent": 13.3
+      "percent": 13.3,
+      "seats": 1
     },
     {
       "year": 2024,
       "constituency": "Norðvesturkjördæmi",
       "party": "Viðreisn",
-      "percent": 12.6
+      "percent": 12.6,
+      "seats": 1
     },
     {
       "year": 2024,
       "constituency": "Norðvesturkjördæmi",
       "party": "Sósíalistaflokkur Íslands",
-      "percent": 3.4
+      "percent": 3.4,
+      "seats": 0
     },
     {
       "year": 2024,
       "constituency": "Norðvesturkjördæmi",
       "party": "Vinstrihreyfingin - grænt framboð",
-      "percent": 2.7
+      "percent": 2.7,
+      "seats": 0
     },
     {
       "year": 2024,
       "constituency": "Norðvesturkjördæmi",
       "party": "Píratar",
-      "percent": 1.8
+      "percent": 1.8,
+      "seats": 0
     },
     {
       "year": 2024,
       "constituency": "Norðausturkjördæmi",
       "party": "Samfylkingin",
-      "percent": 21.3
+      "percent": 21.3,
+      "seats": 2
     },
     {
       "year": 2024,
       "constituency": "Norðausturkjördæmi",
       "party": "Miðflokkurinn",
-      "percent": 15.7
+      "percent": 15.7,
+      "seats": 2
     },
     {
       "year": 2024,
       "constituency": "Norðausturkjördæmi",
       "party": "Sjálfstæðisflokkur",
-      "percent": 15
+      "percent": 15,
+      "seats": 2
     },
     {
       "year": 2024,
       "constituency": "Norðausturkjördæmi",
       "party": "Flokkur fólksins",
-      "percent": 14.3
+      "percent": 14.3,
+      "seats": 1
     },
     {
       "year": 2024,
       "constituency": "Norðausturkjördæmi",
       "party": "Framsóknarflokkur",
-      "percent": 14.2
+      "percent": 14.2,
+      "seats": 2
     },
     {
       "year": 2024,
       "constituency": "Norðausturkjördæmi",
       "party": "Viðreisn",
-      "percent": 9.4
+      "percent": 9.4,
+      "seats": 1
     },
     {
       "year": 2024,
       "constituency": "Norðausturkjördæmi",
       "party": "Sósíalistaflokkur Íslands",
-      "percent": 3.8
+      "percent": 3.8,
+      "seats": 0
     },
     {
       "year": 2024,
       "constituency": "Norðausturkjördæmi",
       "party": "Vinstrihreyfingin - grænt framboð",
-      "percent": 3.8
+      "percent": 3.8,
+      "seats": 0
     },
     {
       "year": 2024,
       "constituency": "Norðausturkjördæmi",
       "party": "Píratar",
-      "percent": 1.8
+      "percent": 1.8,
+      "seats": 0
     },
     {
       "year": 2024,
       "constituency": "Suðurkjördæmi",
       "party": "Flokkur fólksins",
-      "percent": 20
+      "percent": 20,
+      "seats": 2
     },
     {
       "year": 2024,
       "constituency": "Suðurkjördæmi",
       "party": "Sjálfstæðisflokkur",
-      "percent": 19.6
+      "percent": 19.6,
+      "seats": 2
     },
     {
       "year": 2024,
       "constituency": "Suðurkjördæmi",
       "party": "Samfylkingin",
-      "percent": 17.3
+      "percent": 17.3,
+      "seats": 2
     },
     {
       "year": 2024,
       "constituency": "Suðurkjördæmi",
       "party": "Miðflokkurinn",
-      "percent": 13.6
+      "percent": 13.6,
+      "seats": 1
     },
     {
       "year": 2024,
       "constituency": "Suðurkjördæmi",
       "party": "Framsóknarflokkur",
-      "percent": 12
+      "percent": 12,
+      "seats": 2
     },
     {
       "year": 2024,
       "constituency": "Suðurkjördæmi",
       "party": "Viðreisn",
-      "percent": 11.2
+      "percent": 11.2,
+      "seats": 1
     },
     {
       "year": 2024,
       "constituency": "Suðurkjördæmi",
       "party": "Sósíalistaflokkur Íslands",
-      "percent": 2.4
+      "percent": 2.4,
+      "seats": 0
     },
     {
       "year": 2024,
       "constituency": "Suðurkjördæmi",
       "party": "Lýðræðisflokkur",
-      "percent": 1.3
+      "percent": 1.3,
+      "seats": 0
     },
     {
       "year": 2024,
       "constituency": "Suðurkjördæmi",
       "party": "Píratar",
-      "percent": 1.3
+      "percent": 1.3,
+      "seats": 0
     },
     {
       "year": 2024,
       "constituency": "Suðvesturkjördæmi",
       "party": "Sjálfstæðisflokkur",
-      "percent": 23.4
+      "percent": 23.4,
+      "seats": 4
     },
     {
       "year": 2024,
       "constituency": "Suðvesturkjördæmi",
       "party": "Viðreisn",
-      "percent": 20.1
+      "percent": 20.1,
+      "seats": 3
     },
     {
       "year": 2024,
       "constituency": "Suðvesturkjördæmi",
       "party": "Samfylkingin",
-      "percent": 19.3
+      "percent": 19.3,
+      "seats": 3
     },
     {
       "year": 2024,
       "constituency": "Suðvesturkjördæmi",
       "party": "Miðflokkurinn",
-      "percent": 12
+      "percent": 12,
+      "seats": 2
     },
     {
       "year": 2024,
       "constituency": "Suðvesturkjördæmi",
       "party": "Flokkur fólksins",
-      "percent": 11
+      "percent": 11,
+      "seats": 2
     },
     {
       "year": 2024,
       "constituency": "Suðvesturkjördæmi",
       "party": "Framsóknarflokkur",
-      "percent": 5.9
+      "percent": 5.9,
+      "seats": 0
     },
     {
       "year": 2024,
       "constituency": "Suðvesturkjördæmi",
       "party": "Sósíalistaflokkur Íslands",
-      "percent": 2.8
+      "percent": 2.8,
+      "seats": 0
     },
     {
       "year": 2024,
       "constituency": "Suðvesturkjördæmi",
       "party": "Píratar",
-      "percent": 2.8
+      "percent": 2.8,
+      "seats": 0
     },
     {
       "year": 2024,
       "constituency": "Suðvesturkjördæmi",
       "party": "Vinstrihreyfingin - grænt framboð",
-      "percent": 1.5
+      "percent": 1.5,
+      "seats": 0
     },
     {
       "year": 2024,
       "constituency": "Reykjavíkurkjördæmi suður",
       "party": "Samfylkingin",
-      "percent": 22.9
+      "percent": 22.9,
+      "seats": 3
     },
     {
       "year": 2024,
       "constituency": "Reykjavíkurkjördæmi suður",
       "party": "Viðreisn",
-      "percent": 17.7
+      "percent": 17.7,
+      "seats": 2
     },
     {
       "year": 2024,
       "constituency": "Reykjavíkurkjördæmi suður",
       "party": "Sjálfstæðisflokkur",
-      "percent": 17.6
+      "percent": 17.6,
+      "seats": 3
     },
     {
       "year": 2024,
       "constituency": "Reykjavíkurkjördæmi suður",
       "party": "Flokkur fólksins",
-      "percent": 13.5
+      "percent": 13.5,
+      "seats": 2
     },
     {
       "year": 2024,
       "constituency": "Reykjavíkurkjördæmi suður",
       "party": "Miðflokkurinn",
-      "percent": 10.5
+      "percent": 10.5,
+      "seats": 1
     },
     {
       "year": 2024,
       "constituency": "Reykjavíkurkjördæmi suður",
       "party": "Sósíalistaflokkur Íslands",
-      "percent": 5.6
+      "percent": 5.6,
+      "seats": 0
     },
     {
       "year": 2024,
       "constituency": "Reykjavíkurkjördæmi suður",
       "party": "Framsóknarflokkur",
-      "percent": 4.4
+      "percent": 4.4,
+      "seats": 0
     },
     {
       "year": 2024,
       "constituency": "Reykjavíkurkjördæmi suður",
       "party": "Píratar",
-      "percent": 3.9
+      "percent": 3.9,
+      "seats": 0
     },
     {
       "year": 2024,
       "constituency": "Reykjavíkurkjördæmi suður",
       "party": "Vinstrihreyfingin - grænt framboð",
-      "percent": 2.9
+      "percent": 2.9,
+      "seats": 0
     },
     {
       "year": 2024,
       "constituency": "Reykjavíkurkjördæmi norður",
       "party": "Samfylkingin",
-      "percent": 26.1
+      "percent": 26.1,
+      "seats": 4
     },
     {
       "year": 2024,
       "constituency": "Reykjavíkurkjördæmi norður",
       "party": "Sjálfstæðisflokkur",
-      "percent": 17.4
+      "percent": 17.4,
+      "seats": 2
     },
     {
       "year": 2024,
       "constituency": "Reykjavíkurkjördæmi norður",
       "party": "Viðreisn",
-      "percent": 16.3
+      "percent": 16.3,
+      "seats": 3
     },
     {
       "year": 2024,
       "constituency": "Reykjavíkurkjördæmi norður",
       "party": "Flokkur fólksins",
-      "percent": 11.9
+      "percent": 11.9,
+      "seats": 1
     },
     {
       "year": 2024,
       "constituency": "Reykjavíkurkjördæmi norður",
       "party": "Miðflokkurinn",
-      "percent": 8.9
+      "percent": 8.9,
+      "seats": 1
     },
     {
       "year": 2024,
       "constituency": "Reykjavíkurkjördæmi norður",
       "party": "Sósíalistaflokkur Íslands",
-      "percent": 5.9
+      "percent": 5.9,
+      "seats": 0
     },
     {
       "year": 2024,
       "constituency": "Reykjavíkurkjördæmi norður",
       "party": "Píratar",
-      "percent": 5.4
+      "percent": 5.4,
+      "seats": 0
     },
     {
       "year": 2024,
       "constituency": "Reykjavíkurkjördæmi norður",
       "party": "Framsóknarflokkur",
-      "percent": 4
+      "percent": 4,
+      "seats": 0
     },
     {
       "year": 2024,
       "constituency": "Reykjavíkurkjördæmi norður",
       "party": "Vinstrihreyfingin - grænt framboð",
-      "percent": 2.9
+      "percent": 2.9,
+      "seats": 0
     }
   ]
 }

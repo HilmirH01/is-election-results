@@ -1,0 +1,400 @@
+{
+  "results": [
+    {
+      "year": 2017,
+      "constituency": "Norðvesturkjördæmi",
+      "party": "Björt framtíð",
+      "seats": 0
+    },
+    {
+      "year": 2017,
+      "constituency": "Norðvesturkjördæmi",
+      "party": "Framsóknarflokkur",
+      "seats": 2
+    },
+    {
+      "year": 2017,
+      "constituency": "Norðvesturkjördæmi",
+      "party": "Viðreisn",
+      "seats": 0
+    },
+    {
+      "year": 2017,
+      "constituency": "Norðvesturkjördæmi",
+      "party": "Sjálfstæðisflokkur",
+      "seats": 2
+    },
+    {
+      "year": 2017,
+      "constituency": "Norðvesturkjördæmi",
+      "party": "Flokkur fólksins",
+      "seats": 0
+    },
+    {
+      "year": 2017,
+      "constituency": "Norðvesturkjördæmi",
+      "party": "Miðflokkurinn",
+      "seats": 2
+    },
+    {
+      "year": 2017,
+      "constituency": "Norðvesturkjördæmi",
+      "party": "Píratar",
+      "seats": 0
+    },
+    {
+      "year": 2017,
+      "constituency": "Norðvesturkjördæmi",
+      "party": "Alþýðufylkingin",
+      "seats": 0
+    },
+    {
+      "year": 2017,
+      "constituency": "Norðvesturkjördæmi",
+      "party": "Samfylkingin",
+      "seats": 1
+    },
+    {
+      "year": 2017,
+      "constituency": "Norðvesturkjördæmi",
+      "party": "Dögun",
+      "seats": 0
+    },
+    {
+      "year": 2017,
+      "constituency": "Norðvesturkjördæmi",
+      "party": "Vinstrihreyfingin - grænt framboð",
+      "seats": 1
+    },
+    {
+      "year": 2017,
+      "constituency": "Norðausturkjördæmi",
+      "party": "Björt framtíð",
+      "seats": 0
+    },
+    {
+      "year": 2017,
+      "constituency": "Norðausturkjördæmi",
+      "party": "Framsóknarflokkur",
+      "seats": 2
+    },
+    {
+      "year": 2017,
+      "constituency": "Norðausturkjördæmi",
+      "party": "Viðreisn",
+      "seats": 0
+    },
+    {
+      "year": 2017,
+      "constituency": "Norðausturkjördæmi",
+      "party": "Sjálfstæðisflokkur",
+      "seats": 2
+    },
+    {
+      "year": 2017,
+      "constituency": "Norðausturkjördæmi",
+      "party": "Flokkur fólksins",
+      "seats": 0
+    },
+    {
+      "year": 2017,
+      "constituency": "Norðausturkjördæmi",
+      "party": "Miðflokkurinn",
+      "seats": 2
+    },
+    {
+      "year": 2017,
+      "constituency": "Norðausturkjördæmi",
+      "party": "Píratar",
+      "seats": 0
+    },
+    {
+      "year": 2017,
+      "constituency": "Norðausturkjördæmi",
+      "party": "Alþýðufylkingin",
+      "seats": 0
+    },
+    {
+      "year": 2017,
+      "constituency": "Norðausturkjördæmi",
+      "party": "Samfylkingin",
+      "seats": 2
+    },
+    {
+      "year": 2017,
+      "constituency": "Norðausturkjördæmi",
+      "party": "Dögun",
+      "seats": 0
+    },
+    {
+      "year": 2017,
+      "constituency": "Norðausturkjördæmi",
+      "party": "Vinstrihreyfingin - grænt framboð",
+      "seats": 2
+    },
+    {
+      "year": 2017,
+      "constituency": "Suðurkjördæmi",
+      "party": "Björt framtíð",
+      "seats": 0
+    },
+    {
+      "year": 2017,
+      "constituency": "Suðurkjördæmi",
+      "party": "Framsóknarflokkur",
+      "seats": 2
+    },
+    {
+      "year": 2017,
+      "constituency": "Suðurkjördæmi",
+      "party": "Viðreisn",
+      "seats": 0
+    },
+    {
+      "year": 2017,
+      "constituency": "Suðurkjördæmi",
+      "party": "Sjálfstæðisflokkur",
+      "seats": 3
+    },
+    {
+      "year": 2017,
+      "constituency": "Suðurkjördæmi",
+      "party": "Flokkur fólksins",
+      "seats": 1
+    },
+    {
+      "year": 2017,
+      "constituency": "Suðurkjördæmi",
+      "party": "Miðflokkurinn",
+      "seats": 1
+    },
+    {
+      "year": 2017,
+      "constituency": "Suðurkjördæmi",
+      "party": "Píratar",
+      "seats": 1
+    },
+    {
+      "year": 2017,
+      "constituency": "Suðurkjördæmi",
+      "party": "Alþýðufylkingin",
+      "seats": 0
+    },
+    {
+      "year": 2017,
+      "constituency": "Suðurkjördæmi",
+      "party": "Samfylkingin",
+      "seats": 1
+    },
+    {
+      "year": 2017,
+      "constituency": "Suðurkjördæmi",
+      "party": "Dögun",
+      "seats": 0
+    },
+    {
+      "year": 2017,
+      "constituency": "Suðurkjördæmi",
+      "party": "Vinstrihreyfingin - grænt framboð",
+      "seats": 1
+    },
+    {
+      "year": 2017,
+      "constituency": "Suðvesturkjördæmi",
+      "party": "Björt framtíð",
+      "seats": 0
+    },
+    {
+      "year": 2017,
+      "constituency": "Suðvesturkjördæmi",
+      "party": "Framsóknarflokkur",
+      "seats": 1
+    },
+    {
+      "year": 2017,
+      "constituency": "Suðvesturkjördæmi",
+      "party": "Viðreisn",
+      "seats": 2
+    },
+    {
+      "year": 2017,
+      "constituency": "Suðvesturkjördæmi",
+      "party": "Sjálfstæðisflokkur",
+      "seats": 4
+    },
+    {
+      "year": 2017,
+      "constituency": "Suðvesturkjördæmi",
+      "party": "Flokkur fólksins",
+      "seats": 1
+    },
+    {
+      "year": 2017,
+      "constituency": "Suðvesturkjördæmi",
+      "party": "Miðflokkurinn",
+      "seats": 1
+    },
+    {
+      "year": 2017,
+      "constituency": "Suðvesturkjördæmi",
+      "party": "Píratar",
+      "seats": 1
+    },
+    {
+      "year": 2017,
+      "constituency": "Suðvesturkjördæmi",
+      "party": "Alþýðufylkingin",
+      "seats": 0
+    },
+    {
+      "year": 2017,
+      "constituency": "Suðvesturkjördæmi",
+      "party": "Samfylkingin",
+      "seats": 1
+    },
+    {
+      "year": 2017,
+      "constituency": "Suðvesturkjördæmi",
+      "party": "Dögun",
+      "seats": 0
+    },
+    {
+      "year": 2017,
+      "constituency": "Suðvesturkjördæmi",
+      "party": "Vinstrihreyfingin - grænt framboð",
+      "seats": 2
+    },
+    {
+      "year": 2017,
+      "constituency": "Reykjavíkurkjördæmi suður",
+      "party": "Björt framtíð",
+      "seats": 0
+    },
+    {
+      "year": 2017,
+      "constituency": "Reykjavíkurkjördæmi suður",
+      "party": "Framsóknarflokkur",
+      "seats": 1
+    },
+    {
+      "year": 2017,
+      "constituency": "Reykjavíkurkjördæmi suður",
+      "party": "Viðreisn",
+      "seats": 1
+    },
+    {
+      "year": 2017,
+      "constituency": "Reykjavíkurkjördæmi suður",
+      "party": "Sjálfstæðisflokkur",
+      "seats": 2
+    },
+    {
+      "year": 2017,
+      "constituency": "Reykjavíkurkjördæmi suður",
+      "party": "Flokkur fólksins",
+      "seats": 1
+    },
+    {
+      "year": 2017,
+      "constituency": "Reykjavíkurkjördæmi suður",
+      "party": "Miðflokkurinn",
+      "seats": 1
+    },
+    {
+      "year": 2017,
+      "constituency": "Reykjavíkurkjördæmi suður",
+      "party": "Píratar",
+      "seats": 2
+    },
+    {
+      "year": 2017,
+      "constituency": "Reykjavíkurkjördæmi suður",
+      "party": "Alþýðufylkingin",
+      "seats": 0
+    },
+    {
+      "year": 2017,
+      "constituency": "Reykjavíkurkjördæmi suður",
+      "party": "Samfylkingin",
+      "seats": 1
+    },
+    {
+      "year": 2017,
+      "constituency": "Reykjavíkurkjördæmi suður",
+      "party": "Dögun",
+      "seats": 0
+    },
+    {
+      "year": 2017,
+      "constituency": "Reykjavíkurkjördæmi suður",
+      "party": "Vinstrihreyfingin - grænt framboð",
+      "seats": 2
+    },
+    {
+      "year": 2017,
+      "constituency": "Reykjavíkurkjördæmi norður",
+      "party": "Björt framtíð",
+      "seats": 0
+    },
+    {
+      "year": 2017,
+      "constituency": "Reykjavíkurkjördæmi norður",
+      "party": "Framsóknarflokkur",
+      "seats": 0
+    },
+    {
+      "year": 2017,
+      "constituency": "Reykjavíkurkjördæmi norður",
+      "party": "Viðreisn",
+      "seats": 1
+    },
+    {
+      "year": 2017,
+      "constituency": "Reykjavíkurkjördæmi norður",
+      "party": "Sjálfstæðisflokkur",
+      "seats": 3
+    },
+    {
+      "year": 2017,
+      "constituency": "Reykjavíkurkjördæmi norður",
+      "party": "Flokkur fólksins",
+      "seats": 1
+    },
+    {
+      "year": 2017,
+      "constituency": "Reykjavíkurkjördæmi norður",
+      "party": "Miðflokkurinn",
+      "seats": 0
+    },
+    {
+      "year": 2017,
+      "constituency": "Reykjavíkurkjördæmi norður",
+      "party": "Píratar",
+      "seats": 2
+    },
+    {
+      "year": 2017,
+      "constituency": "Reykjavíkurkjördæmi norður",
+      "party": "Alþýðufylkingin",
+      "seats": 0
+    },
+    {
+      "year": 2017,
+      "constituency": "Reykjavíkurkjördæmi norður",
+      "party": "Samfylkingin",
+      "seats": 1
+    },
+    {
+      "year": 2017,
+      "constituency": "Reykjavíkurkjördæmi norður",
+      "party": "Dögun",
+      "seats": 0
+    },
+    {
+      "year": 2017,
+      "constituency": "Reykjavíkurkjördæmi norður",
+      "party": "Vinstrihreyfingin - grænt framboð",
+      "seats": 3
+    }
+  ]
+}

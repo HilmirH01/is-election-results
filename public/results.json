@@ -13,307 +13,368 @@
     {
       "year": 2003,
       "party": "Sjálfstæðisflokkur",
-      "percent": 34
+      "percent": 34,
+      "seats": 22
     },
     {
       "year": 2003,
       "party": "Samfylkingin",
-      "percent": 31
+      "percent": 31,
+      "seats": 20
     },
     {
       "year": 2003,
       "party": "Framsóknarflokkur",
-      "percent": 18
+      "percent": 18,
+      "seats": 12
     },
     {
       "year": 2003,
       "party": "Vinstrihreyfingin - grænt framboð",
-      "percent": 9
+      "percent": 9,
+      "seats": 5
     },
     {
       "year": 2003,
       "party": "Frjálslyndi flokkurinn",
-      "percent": 7
+      "percent": 7,
+      "seats": 4
     },
     {
       "year": 2003,
       "party": "Aðrir og utan flokka",
-      "percent": 1
+      "percent": 1,
+      "seats": 0
     },
     {
       "year": 2007,
       "party": "Sjálfstæðisflokkur",
-      "percent": 37
+      "percent": 37,
+      "seats": 25
     },
     {
       "year": 2007,
       "party": "Samfylkingin",
-      "percent": 27
+      "percent": 27,
+      "seats": 18
     },
     {
       "year": 2007,
       "party": "Vinstrihreyfingin - grænt framboð",
-      "percent": 14
+      "percent": 14,
+      "seats": 9
     },
     {
       "year": 2007,
       "party": "Framsóknarflokkur",
-      "percent": 12
+      "percent": 12,
+      "seats": 7
     },
     {
       "year": 2007,
       "party": "Frjálslyndi flokkurinn",
-      "percent": 7
+      "percent": 7,
+      "seats": 4
     },
     {
       "year": 2007,
       "party": "Aðrir og utan flokka",
-      "percent": 3
+      "percent": 3,
+      "seats": 0
     },
     {
       "year": 2009,
       "party": "Samfylkingin",
-      "percent": 30
+      "percent": 30,
+      "seats": 20
     },
     {
       "year": 2009,
       "party": "Sjálfstæðisflokkur",
-      "percent": 24
+      "percent": 24,
+      "seats": 16
     },
     {
       "year": 2009,
       "party": "Vinstrihreyfingin - grænt framboð",
-      "percent": 22
+      "percent": 22,
+      "seats": 14
     },
     {
       "year": 2009,
       "party": "Framsóknarflokkur",
-      "percent": 15
+      "percent": 15,
+      "seats": 9
     },
     {
       "year": 2009,
       "party": "Borgarahreyfingin",
-      "percent": 7
+      "percent": 7,
+      "seats": 4
     },
     {
       "year": 2009,
       "party": "Frjálslyndi flokkurinn",
-      "percent": 2
+      "percent": 2,
+      "seats": null
     },
     {
       "year": 2009,
       "party": "Aðrir og utan flokka",
-      "percent": 1
+      "percent": 1,
+      "seats": 0
     },
     {
       "year": 2013,
       "party": "Sjálfstæðisflokkur",
-      "percent": 27
+      "percent": 27,
+      "seats": 19
     },
     {
       "year": 2013,
       "party": "Framsóknarflokkur",
-      "percent": 24
+      "percent": 24,
+      "seats": 19
     },
     {
       "year": 2013,
       "party": "Samfylkingin",
-      "percent": 13
+      "percent": 13,
+      "seats": 9
     },
     {
       "year": 2013,
       "party": "Aðrir og utan flokka",
-      "percent": 12
+      "percent": 12,
+      "seats": 0
     },
     {
       "year": 2013,
       "party": "Vinstrihreyfingin - grænt framboð",
-      "percent": 11
+      "percent": 11,
+      "seats": 7
     },
     {
       "year": 2013,
       "party": "Björt framtíð",
-      "percent": 8
+      "percent": 8,
+      "seats": 6
     },
     {
       "year": 2013,
       "party": "Píratar",
-      "percent": 5
+      "percent": 5,
+      "seats": 3
     },
     {
       "year": 2016,
       "party": "Sjálfstæðisflokkur",
-      "percent": 29
+      "percent": 29,
+      "seats": 21
     },
     {
       "year": 2016,
       "party": "Vinstrihreyfingin - grænt framboð",
-      "percent": 16
+      "percent": 16,
+      "seats": 10
     },
     {
       "year": 2016,
       "party": "Píratar",
-      "percent": 15
+      "percent": 15,
+      "seats": 10
     },
     {
       "year": 2016,
       "party": "Framsóknarflokkur",
-      "percent": 12
+      "percent": 12,
+      "seats": 8
     },
     {
       "year": 2016,
       "party": "Viðreisn",
-      "percent": 11
+      "percent": 11,
+      "seats": 7
     },
     {
       "year": 2016,
       "party": "Björt framtíð",
-      "percent": 7
+      "percent": 7,
+      "seats": 4
     },
     {
       "year": 2016,
       "party": "Samfylkingin",
-      "percent": 6
+      "percent": 6,
+      "seats": 3
     },
     {
       "year": 2016,
       "party": "Aðrir og utan flokka",
-      "percent": 6
+      "percent": 6,
+      "seats": 0
     },
     {
       "year": 2017,
       "party": "Sjálfstæðisflokkur",
-      "percent": 25.2
+      "percent": 25.2,
+      "seats": 16
     },
     {
       "year": 2017,
       "party": "Vinstrihreyfingin - grænt framboð",
-      "percent": 16.9
+      "percent": 16.9,
+      "seats": 11
     },
     {
       "year": 2017,
       "party": "Samfylkingin",
-      "percent": 12.1
+      "percent": 12.1,
+      "seats": 7
     },
     {
       "year": 2017,
       "party": "Miðflokkurinn",
-      "percent": 10.9
+      "percent": 10.9,
+      "seats": 7
     },
     {
       "year": 2017,
       "party": "Framsóknarflokkur",
-      "percent": 10.7
+      "percent": 10.7,
+      "seats": 8
     },
     {
       "year": 2017,
       "party": "Píratar",
-      "percent": 9.2
+      "percent": 9.2,
+      "seats": 6
     },
     {
       "year": 2017,
       "party": "Flokkur fólksins",
-      "percent": 6.9
+      "percent": 6.9,
+      "seats": 4
     },
     {
       "year": 2017,
       "party": "Viðreisn",
-      "percent": 6.7
+      "percent": 6.7,
+      "seats": 4
     },
     {
       "year": 2017,
       "party": "Björt framtíð",
-      "percent": 1.2
+      "percent": 1.2,
+      "seats": 0
     },
     {
       "year": 2021,
       "party": "Sjálfstæðisflokkur",
-      "percent": 24.4
+      "percent": 24.4,
+      "seats": 16
     },
     {
       "year": 2021,
       "party": "Framsóknarflokkur",
-      "percent": 17.3
+      "percent": 17.3,
+      "seats": 13
     },
     {
       "year": 2021,
       "party": "Vinstrihreyfingin - grænt framboð",
-      "percent": 12.6
+      "percent": 12.6,
+      "seats": 8
     },
     {
       "year": 2021,
       "party": "Samfylkingin",
-      "percent": 9.9
+      "percent": 9.9,
+      "seats": 6
     },
     {
       "year": 2021,
       "party": "Flokkur fólksins",
-      "percent": 8.8
+      "percent": 8.8,
+      "seats": 6
     },
     {
       "year": 2021,
       "party": "Píratar",
-      "percent": 8.6
+      "percent": 8.6,
+      "seats": 6
     },
     {
       "year": 2021,
       "party": "Viðreisn",
-      "percent": 8.3
+      "percent": 8.3,
+      "seats": 5
     },
     {
       "year": 2021,
       "party": "Miðflokkurinn",
-      "percent": 5.4
+      "percent": 5.4,
+      "seats": 3
     },
     {
       "year": 2021,
       "party": "Sósíalistaflokkur Íslands",
-      "percent": 4.1
+      "percent": 4.1,
+      "seats": 0
     },
     {
       "year": 2024,
       "party": "Samfylkingin",
-      "percent": 20.8
+      "percent": 20.8,
+      "seats": 15
     },
     {
       "year": 2024,
       "party": "Sjálfstæðisflokkur",
-      "percent": 19.4
+      "percent": 19.4,
+      "seats": 14
     },
     {
       "year": 2024,
       "party": "Viðreisn",
-      "percent": 15.8
+      "percent": 15.8,
+      "seats": 11
     },
     {
       "year": 2024,
       "party": "Flokkur fólksins",
-      "percent": 13.8
+      "percent": 13.8,
+      "seats": 10
     },
     {
       "year": 2024,
       "party": "Miðflokkurinn",
-      "percent": 12.1
+      "percent": 12.1,
+      "seats": 8
     },
     {
       "year": 2024,
       "party": "Framsóknarflokkur",
-      "percent": 7.8
+      "percent": 7.8,
+      "seats": 5
     },
     {
       "year": 2024,
       "party": "Sósíalistaflokkur Íslands",
-      "percent": 4
+      "percent": 4,
+      "seats": 0
     },
     {
       "year": 2024,
       "party": "Píratar",
-      "percent": 3
+      "percent": 3,
+      "seats": 0
     },
     {
       "year": 2024,
       "party": "Vinstrihreyfingin - grænt framboð",
-      "percent": 2.3
+      "percent": 2.3,
+      "seats": 0
     }
   ]
 }

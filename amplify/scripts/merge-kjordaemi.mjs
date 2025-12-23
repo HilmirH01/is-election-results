@@ -2,7 +2,7 @@ import fs from "node:fs/promises";
 import path from "node:path";
 
 const OUT = "public/results-kjordaemi.json";
-const INPUTS = [
+const INPUTS_PERCENT = [
   "amplify/data/export/kjordaemi-2003.normalized.json",
   "amplify/data/export/kjordaemi-2007.normalized.json",
   "amplify/data/export/kjordaemi-2009.normalized.json",
@@ -11,7 +11,17 @@ const INPUTS = [
   "amplify/data/export/kjordaemi-2017.normalized.json",
   "amplify/data/export/kjordaemi-2021.normalized.json",
   "amplify/data/export/kjordaemi-2024.normalized.json",
+];
 
+const INPUTS_SEATS = [
+  "amplify/data/export/kjordaemi-seats-2003.normalized.json",
+  "amplify/data/export/kjordaemi-seats-2007.normalized.json",
+  "amplify/data/export/kjordaemi-seats-2009.normalized.json",
+  "amplify/data/export/kjordaemi-seats-2013.normalized.json",
+  "amplify/data/export/kjordaemi-seats-2016.normalized.json",
+  "amplify/data/export/kjordaemi-seats-2017.normalized.json",
+  "amplify/data/export/kjordaemi-seats-2021.normalized.json",
+  "amplify/data/export/kjordaemi-seats-2024.normalized.json",
 ];
 
 function keyOf(r) {
@@ -23,17 +33,37 @@ async function readResults(file) {
   return obj.results ?? [];
 }
 
+function isMissing(v) {
+  return v === null || v === undefined || v === "." || v === "..";
+}
+
 async function main() {
-  const all = [];
-  for (const f of INPUTS) {
-    all.push(...(await readResults(f)));
+  const percentAll = [];
+  for (const f of INPUTS_PERCENT) percentAll.push(...(await readResults(f)));
+
+  const seatsAll = [];
+  for (const f of INPUTS_SEATS) seatsAll.push(...(await readResults(f)));
+
+  // Map seats by key
+  const seatsMap = new Map();
+  for (const r of seatsAll) {
+    if (isMissing(r.seats)) continue;
+    seatsMap.set(keyOf(r), Number(r.seats));
   }
 
-  // dedupe (seinasta vinnur ef sama lykill)
-  const map = new Map();
-  for (const r of all) map.set(keyOf(r), r);
+  // Dedupe percent (last wins)
+  const percentMap = new Map();
+  for (const r of percentAll) percentMap.set(keyOf(r), r);
 
-  const merged = [...map.values()];
+  // Merge seats into percent rows
+  const merged = [];
+  for (const r of percentMap.values()) {
+    merged.push({
+      ...r,
+      seats: seatsMap.get(keyOf(r)) ?? null,
+    });
+  }
+
 
   // top 9 per (year,constituency)
   const buckets = {};

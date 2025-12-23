@@ -1,0 +1,9 @@
+{
+  "query": [
+    { "code": "Ár", "selection": { "filter": "item", "values": ["1"] } },
+    { "code": "Eining", "selection": { "filter": "item", "values": ["2"] } },
+    { "code": "Kjördæmi", "selection": { "filter": "item", "values": ["1","2","3","4","5","6"] } },
+    { "code": "Flokkur", "selection": { "filter": "item", "values": ["1","2","3","4","5","6","7","8","9","10"] } }
+  ],
+  "response": { "format": "json-stat2" }
+}

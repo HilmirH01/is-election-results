@@ -4,6 +4,7 @@ import path from "node:path";
 const INPUT = process.argv[2];   // t.d. amplify/data/source/kjordaemi-2007.raw.json
 const OUTPUT = process.argv[3];  // t.d. amplify/data/export/kjordaemi-2007.normalized.json
 const YEAR_FALLBACK = process.argv[4] ? Number(process.argv[4]) : null;
+const METRIC_FIELD = process.argv[5] ?? "percent"; // "percent" | "seats"
 
 function orderedKeys(dimObj) {
   const idx = dimObj.category.index;
@@ -74,7 +75,15 @@ async function main() {
         const constituency = constLabel[constKeys[ci]] ?? constKeys[ci];
         const party = partyLabel[partyKeys[pi]] ?? partyKeys[pi];
 
-        results.push({ year, constituency, party, percent: Number(v) });
+        const metricValue = Number(v);
+
+        results.push({
+        year,
+        constituency,
+        party,
+        [METRIC_FIELD]: METRIC_FIELD === "seats" ? Math.round(metricValue) : metricValue
+        });
+
       }
     }
   }
